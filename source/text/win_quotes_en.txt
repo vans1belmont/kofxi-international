@@ -1,0 +1,832 @@
+THE KING OF FIGHTERS XI INTERNATIONAL -- WIN QUOTES, ENGLISH: the lines this patch wrote or changed
+
+The game has 611 win quotes: for each character, eight general ones and some for named opponents.
+Listed here are only the lines that are new or changed; every other entry is SNK's own line, kept.
+199 lines: 43 corrected, 156 new.
+
+[004] Ash -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    My flames are custom-made, you see.
+    I'll turn you to ash, pride and all!
+
+[005] Ash -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Green flame or not, the ash comes out gray.
+    Just like a puny mouse! Ahaha♪
+
+[006] Ash -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Wow, you surprised me.
+    You're just sooo weak!
+
+[007] Ash -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Come on, get up and wave to the crowd.
+    You did your best. You lost, though. Ahaha♪
+
+[012] Oswald -> any opponent   CORRECTED
+    Nice teamwork.
+    Even cheap cards make a flush together.
+    was: Nice teamwork. / One more card and you'd have a flush.
+
+[013] Oswald -> any opponent   CORRECTED
+    You're not half bad.
+    Three aces! I must say I am impressed.
+    was: You're not half bad. / You're third card's a real ace!
+
+[014] Oswald -> any opponent   CORRECTED
+    I trust you enjoyed my Karnoffel.
+    ...Your action, sir?
+    was: Karnoffel would be satisfied with me. / ...Your hand, sir?
+
+[016] Oswald -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    If it hurts, just say so.
+    A poker face is not for acting tough.
+
+[017] Oswald -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Know your standing.
+    Would you really raise on a pair of threes?
+
+[018] Oswald -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Even on a lucky streak, know when to fold.
+    That is the golden rule of card games.
+
+[019] Oswald -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Your offense is a bit monotonous.
+    Why not shuffle your highs and lows a bit?
+
+[027] Shen -> any opponent   CORRECTED
+    You are one snoozefest of an opponent.
+    Did you think hiding in defense would win?
+    was: You are one snoozefest of an opponent. / Winning on defense alone? You're a Democrat?
+
+[028] Shen -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Hey, put up a little fight, will ya?
+    You're making it look like I'm bullying you!
+
+[029] Shen -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Hah! Unbelievable...
+    Couldn't you even tell I'm out of your league?
+
+[030] Shen -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    That didn't even get me warmed up...
+    Hey, let's hurry on to the next one!
+
+[031] Shen -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Too early to go to sleep... Get up!
+    In Shanghai, this is where things get real!
+
+[035] Shen -> Ramon   CORRECTED
+    You call yourself a "Tiger?"
+    House cats should stay out of this!
+    was: You call yourself a "Tiger?" / My pet pussy'd rip you to shreds!
+
+[036] Elisabeth -> any opponent   CORRECTED
+    I show no mercy to the reckless and planless.
+    Know that it will cost you your life one day!
+    was: No one likes a spaz. Get with the program! / Failing to do so will be the end of you.
+
+[040] Elisabeth -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Brushed aside with a single touch.
+    The likes of you are beneath my notice.
+
+[041] Elisabeth -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Blazing with spirit... is not how I'd put it.
+    You think one with no fighting spirit can win?
+
+[042] Elisabeth -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Charging head first like a wild boar, I see.
+    Could it be you prefer old-fashioned styles?
+
+[043] Elisabeth -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    The flawless warrior is an illusion.
+    For you, and for me as well.
+
+[044] Elisabeth -> Ash   CORRECTED
+    You do understand, Ash!
+    You are going to fulfill your duty!
+    was: Now do you see what I was saying, Ash? / It is I who will realize your ambitions!
+
+[048] Duolon -> any opponent   CORRECTED
+    Do you hear it: the screaming of deluded
+    obsessions from the sea bottom?
+    was: Do you hear it: the screaming of irrelevant / thoughts from the sea bottom? 
+
+[052] Duolon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Murmurs of obsession dancing across the heavens.
+    Do they reach you?
+
+[053] Duolon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Too many eyes on me.
+    Being a spectacle... I cannot get used to it.
+
+[054] Duolon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Close your eyes to fear and victory slips by...
+    If you wish to win, first conquer yourself.
+
+[055] Duolon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Do you feel it?
+    The dance of souls gathering in my darkness...
+
+[063] Benimaru -> any opponent   CORRECTED
+    Oh, my. If I don't lose once in a while,
+    I'll have more fans than I can handle.
+    was: Oh, my. If I don't lose once in awhile, / I'll have more fans that I can handle.
+
+[064] Benimaru -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I didn't even need to zap you with lightning.
+    My dazzling moves had your heart tingling, huh?
+
+[065] Benimaru -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Not good... If you share a stage with me,
+    at least lose with a little more style.
+
+[066] Benimaru -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Am I losing my touch?
+    I'd planned on a far more dazzling win...
+
+[067] Benimaru -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I've gotten tired of winning all the time...
+    I envy you. You get to take a nice long rest.
+
+[072] Terry -> any opponent   CORRECTED
+    OK!
+    This is the best bout I've had in a while.
+    was: OK! / This is the best bout I've had in awhile.
+
+[076] Terry -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    A little rough fighting won't faze me.
+    I honed my skills on the streets!
+
+[077] Terry -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I'm a regular at these tournaments, you know.
+    A showing like this is only natural!
+
+[078] Terry -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    YEAH!
+    We make a pretty great team, don't we?
+
+[079] Terry -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Hanging on like that from the very brink...
+    Your resistance was truly a miracle.
+
+[088] Kim -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    This is tae kwon do...
+    The strongest martial art in the world!
+
+[089] Kim -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Chang, Choi, did you pay attention?
+    No slacking on your training and reform!
+
+[090] Kim -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Rest assured. It is never too late
+    to learn Justice and tae kwon do.
+
+[091] Kim -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    My Phoenix Kick cannot be defeated.
+    Just as Justice cannot be defeated!
+
+[092] Kim -> Kim   CORRECTED
+    Dressing up like that because you wish to
+    imitate my heart of Justice? I see!
+    was: If you wish to imitate my heart of Justice then / you must imitate me. ...What a head case!
+
+[093] Kim -> Silber, Jazu   CORRECTED
+    Chang, take him home, tend to his wounds,
+    and swaddle him in Justice's garb.
+    was: Chan, take him home, tend to his wounds, / and swaddle him in Justice's garb.
+
+[100] Duck -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    SORRY!
+    I forgot to hold baaack!
+
+[101] Duck -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    WHY?
+    I only gave you a little taaap!
+
+[102] Duck -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    NO!
+    There's no way you can sync with my rhythm!
+
+[103] Duck -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    BOOO!!
+    What a totally boring match that was!
+
+[112] Ryo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Robert's not around this time, you see.
+    So I'm fired up enough for the both of us!
+
+[113] Ryo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I put killing force into every single blow.
+    Half-hearted resolve can't take them!
+
+[114] Ryo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Carrying the dojo's heavy name isn't so bad.
+    That weight draws out even more of my power!
+
+[115] Ryo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    You'd better get to a dentist right away.
+    I'd say two or three of your molars are broken.
+
+[124] Yuri -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Sign up here for the Kyokugen dojo, where
+    your kind big sis Yuri is the instructor!
+
+[125] Yuri -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    That's enough for today.
+    I'll let you off the hook this time!
+
+[126] Yuri -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Upsy-daisy... There. Come on, stand up straight.
+    I can't have hurt you that much!
+
+[127] Yuri -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    To beat the one and only Yuri,
+    you still need a whole lot more training♪
+
+[132] King -> any opponent   CORRECTED
+    You confuse unexpected moves with random ones.
+    Even a surprise needs something behind it.
+    was: You confuse unexpected with proper moves. / The fundamentals are what really surprise.
+
+[136] King -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I used to be a bouncer, you know.
+    You'd best skip the clumsy surprise attacks.
+
+[137] King -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Looks like you still don't get it...
+    You lost. Accept reality.
+
+[138] King -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Phew... Believe it or not, I do Muay Thai.
+    I can take more of a beating than it looks.
+
+[139] King -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Pathetic... Get up!
+    What good are you if you can't even act tough?
+
+[148] Jenet -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Don't take it so hard, okay?
+    You're making me feel like I did something bad.
+
+[149] Jenet -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Aaah! My dress!
+    You're going to pay for it. Every last cent!
+
+[150] Jenet -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    What a treeemendous blow!
+    That's KOF for you. I can't take it lightly.
+
+[151] Jenet -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Boys, wasn't that barrage a little thiiin?
+    Do it properly, okaaay!
+
+[160] Gato -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Strike. Break. Shatter...
+    And crush!
+
+[161] Gato -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I came for a so-called "world tournament,"
+    and it's not even a decent gathering of punks!
+
+[162] Gato -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    How unsightly.
+    Go on and live out your miserable life!
+
+[163] Gato -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ...Move.
+
+[166] Gato -> Shen   CORRECTED
+    You common cur...
+    You have mistaken what strength is!
+    was: You common cur...  / You underestimated your own strength!
+
+[172] Griffon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Tizoc shall never fold!
+    Come at me all at once, you villains!
+
+[173] Griffon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I will rise again!
+    As long as the children's voices reach me!
+
+[174] Griffon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I hear them, I hear them...
+    The voices of the children cheering me on!
+
+[175] Griffon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    At any time, against any enemy...
+    Tizoc will keep on fighting!
+
+[176] Griffon -> Hayate, Gai   CORRECTED
+    Your heart burns hot as fire!
+    You are truly a man of flame!
+    was: Even if you can't shoot fire like Kyo!
+
+[183] Ralf -> any opponent   CORRECTED
+    What a bore... If I had a choice,
+    I'd rather be tagging along with the Commander!
+    was: What a bore... If I had a choice, / I'd rather be partying with a noncom!
+
+[184] Ralf -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Make sure you ice that face of yours.
+    It's going to swell up by tomorrow.
+
+[185] Ralf -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Winning that easily against an amateur...
+    maybe that was a little childish of me.
+
+[186] Ralf -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Flashy as it was, it didn't hurt much, did it?
+    That's what you call a pro's consideration.
+
+[187] Ralf -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Hey, hey, put some guts into it!
+    On a battlefield, that would've killed you.
+
+[196] Clark -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Jeesh! The Commander's a real demon.
+    Dumping all the troublesome work on us...
+
+[197] Clark -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    There are things training can't give you.
+    Go get more experience in "real combat."
+
+[198] Clark -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    We entered, so this is part of the job, but...
+    should mercenaries really stand out this much?
+
+[199] Clark -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Having confidence is important, but...
+    I'd say yours is called "overconfidence."
+
+[208] Whip -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Escape my whip in such a small arena? Really?
+    Consider an open battlefield next time.
+
+[209] Whip -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    You think I'm a woman with no charm, don't you?
+    Well, it can't be helped...
+
+[210] Whip -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    A split-second opening. A single weak point.
+    For Voodoo and me, that is all it takes.
+
+[211] Whip -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    A paper-thin margin. Between winning or
+    losing...? That's all the difference.
+
+[212] Whip -> Ralf   CORRECTED
+    Colonel...you can't fool me.
+    It's obvious you let me win!
+    was: Commander...you can't fool me. / It's obvious you let me win!
+
+[218] Athena -> any opponent   CORRECTED
+    An evil presence is near...
+    From here on, I can't afford to lose!
+    was: Something wicked this way comes...  / Man, did you shower this week?
+
+[220] Athena -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Believe it or not, I train every single day.
+    Hard work never lets me down!
+
+[221] Athena -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    What amazing cheers...
+    Everyone! Thank youuu!!
+
+[222] Athena -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    How do you like this year's costume?
+    I really love it♪
+
+[223] Athena -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I have a recording session right now.
+    Let's do autographs next time, okay?
+
+[232] Kensou -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I didn't train a whole year just for show!
+    Don't you go underestimating me!
+
+[233] Kensou -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Just lie down for a while.
+    I got a little too serious. Forgive me, okay?
+
+[234] Kensou -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    No worries. Microwave it and it's still tasty!
+    ...Huh? No, I mean the meat bun, of course!
+
+[235] Kensou -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Nailed it perfectly, if I do say so myself!
+    Athena, were you watching me properly?
+
+[240] Momoko -> any opponent   CORRECTED
+    Eh, heh, heh. Surprised?
+    They call that "capoeira," you know?
+    was: Eh, heh, heh. Surprised? / They call that "capoera," you know?
+
+[244] Momoko -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Sniff...
+    It hurts, but... Momoko didn't cry!
+
+[245] Momoko -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    It's almost snack time!
+
+[246] Momoko -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Everybody's so strong...
+    Momoko's going to try even harder!
+
+[247] Momoko -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Eheheee!
+    I beat youuuu♪
+
+[250] Momoko -> Mary, Elisabeth, Vanessa, Jenet, Mai   CORRECTED
+    Momoko wants to grow up big like that too!
+    was: Wow! I hope I can get a pair of those!
+
+[256] Vanessa -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    That's it for today's work!
+    Let's all go for a drink! It's on me!
+
+[257] Vanessa -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    You're a top-notch opponent.
+    As a sparring partner, that is.
+
+[258] Vanessa -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    An easy win, huh...
+    This year's KOF seems a little short on thrills.
+
+[259] Vanessa -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Steady training is what matters.
+    ...I know some good mail-order gear. Interested?
+
+[262] Vanessa -> Momoko   CORRECTED
+    You've got me there. At this point you're less
+    a little sister than a daughter... Ahem.
+    was: You threw me for a loop.  / You, young lady, are no kid!
+
+[268] Mary -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Toughing it out has its downside. Any longer
+    and I would have had to break your arm.
+
+[269] Mary -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Huh? My belt is too big?
+    It's just an accessory, you know.
+
+[270] Mary -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    What a run-of-the-mill strategy.
+    You thought I would fall for it?
+
+[271] Mary -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Maybe I went a little overboard.
+    And I wanted to avoid standing out too much...
+
+[279] Ramon -> any opponent   CORRECTED
+    You got some real talent there.
+    You could be a first-rate heel. For sure!
+    was: You got some real talent there. / You got a real heel for battle. For sure!
+
+[280] Ramon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Aerial moves faster than the blink of an eye!
+    This is the essence of lucha!
+
+[281] Ramon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I'd like you to call me a "luchador."
+    It's not the same as a pro wrestler. Got it?
+
+[282] Ramon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    How's that? This is what real skill looks like!
+    Shines brighter than any cheap imitation, huh?!
+
+[283] Ramon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    In my heart, the hot winds of Mexico
+    are always raging!
+
+[292] Malin -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I got you where it REALLY hurts!
+
+[293] Malin -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Oh, is that it?
+    KOF is a piece of cake♪
+
+[294] Malin -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Phew...
+    Th-That might've been a teensy bit tough.
+
+[295] Malin -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Don't go thinking that's all of
+    little Malin's hidden weapons!
+
+[304] Kasumi -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I never cut corners. Be it training or
+    tournament, I always give it my all!
+
+[305] Kasumi -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I cannot allow the honor
+    of the Todoh School to be sullied!
+
+[306] Kasumi -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    This kind of damage is nothing!
+    I will pull through on willpower alone!
+
+[307] Kasumi -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I still have much to learn.
+    Father would have felled such a foe instantly.
+
+[316] Eiji -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    The martial fame of the Way of Kisaragi
+    has now risen higher still!
+
+[317] Eiji -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    My ninjutsu is invincible!
+    You shall be the teller of my undefeated legend!
+
+[318] Eiji -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Excuses?
+    Even in defeat, your tongue alone stays sharp.
+
+[319] Eiji -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    An assassin's art, honed over generations...
+    Carve the might of Kisaragi into your heart.
+
+[328] K' -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Blood spatter, huh...
+    My fist's turned a nasty color again.
+
+[329] K' -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    That was painful...
+    having to fight weaklings, that is.
+
+[330] K' -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    That wasn't even a fight.
+    What a letdown. Seriously.
+
+[331] K' -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Even if you all came at me at once,
+    I can't see myself losing.
+
+[334] K' -> Maxima   CORRECTED
+    Before you butt into others' business,
+    you should worry about your own upkeep.
+    was: Before you butt into other's business, / you should worry about your own upkeep.
+
+[340] Kula -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    So I just keep winning like this?
+    Oh, is that all? That's easy♪
+
+[341] Kula -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Hey, Dianaaa, this is boooring.
+    Can we go home now?
+
+[342] Kula -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I think I broke you here and there.
+    Make sure you get fixed up properly later!
+
+[343] Kula -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Nice and cool now, isn't it?
+    Eheheh♪
+
+[344] Kula -> Whip   CORRECTED
+    You're so sweet, Seirah.
+    I love you!
+    was: You're so sweet, Sala. / I love you!
+
+[352] Maxima -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Took more damage than calculated, but...
+    I've still got plenty of juice left.
+
+[353] Maxima -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    You'd better not push yourself.
+    Your body can't just swap out parts, can it?
+
+[354] Maxima -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Was that supposed to be some kind of strategy?
+    You are sleeping at the wheel, buddy.
+
+[355] Maxima -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    My attacks carry a different kind of weight.
+    You feel them creeping up, don't you?
+
+[360] Kyo -> any opponent   CORRECTED
+    Out of my way, punk! You make me sick, so you'll
+    get no mercy from me!
+    was: Out of my way, punk! You make me sick,so you'll / get no mercy from me!
+
+[364] Kyo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Flames are a living thing!
+    A beast in a wild dance... mine especially.
+
+[365] Kyo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    There were some good attacks in there, but...
+    I guess they were just flukes?
+
+[366] Kyo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    What a sloppy way to attack.
+    Do you think being reckless is enough to win?
+
+[367] Kyo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Your tales were as tall as your attitude.
+    How about you learn to match your skill?
+
+[370] Kyo -> Shen, Jazu   CORRECTED
+    I've got to burn it all properly.
+    Burnable trash, and the world's trash too!
+    was: I must incinerate you completely. / Flammable trash is the world's trash!
+
+[376] Iori -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Hmph...
+    Seems your pride turned to ash before your body.
+
+[377] Iori -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    As the scorching flames sear your flesh,
+    enjoy a dance of madness until you die!
+
+[378] Iori -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Too late...
+    Carry on with your regrets in the next world.
+
+[379] Iori -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Remember me when you look at the moon!
+
+[381] Iori -> Ash   CORRECTED
+    Still plan to hover around me?
+    I burn pesky gnats like you!
+    was: Still plan to hover around me? / I burn priggish bugs like you!
+
+[383] Iori -> Gato, Gai   CORRECTED
+    And you call yourself a real fighter?
+    Pathetic clown. Know your shame!
+    was: And you call yourself a real fighter? / Pathetic clown. No your shame!
+
+[388] Shingo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    You've still got a long way to go, Shingo!
+    A foe like this should go down in an instant!
+
+[389] Shingo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Huh? You're looking low on energy!
+    Hustle, hustle!
+
+[390] Shingo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    As a pupil of Saisyu Kusanagi, I must tell you:
+    Mr. Kusanagi and I are now fellow practitioners!
+
+[391] Shingo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    As long as I keep going, little by little...
+    Perhaps someday, I'll surpass even Mr. Kusanagi!
+
+[392] Shingo -> Shingo   CORRECTED
+    Wheeze, hack...OK.
+    Go get me some chow mein bread!
+    was: Wheez, hack...OK. / Go get me some chow mein bread!
+
+[399] Gai -> any opponent   CORRECTED
+    Care to get out of my way?
+    ...Thanks.
+    was: Care to get out of my way? / ...Much obliged. NOT!
+
+[400] Gai -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    What I do is "mixed martial arts." It covers
+    everything. You won't find a gap in my defense.
+
+[401] Gai -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    That about does it?
+    My bad, I still don't get how KOF works.
+
+[402] Gai -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    As if strength or weakness had any logic to it.
+
+[403] Gai -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    How disappointing...
+    Well, I'm going home.
+
+[407] Gai -> Duolon   CORRECTED
+    Winning is all that counts here, right?
+    Oh, don't act like the tragic hero.
+    was: How much will I get for beating you? / Oh, don't act like the tragic hero.
+
+[412] Hayate -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Not yet! I'm nowhere near done!
+    The Fist of Fu-Un is far stronger than this!
+
+[413] Hayate -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    The Fist of Fu-Un is always evolving!
+    Old data won't do you any good!!
+
+[414] Hayate -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    My name and the Fist of Fu-Un,
+    don't you forget them!
+
+[415] Hayate -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Hot... That was one hot fight!
+
+[417] Hayate -> Jazu   CORRECTED
+    This is the end of JAGA.
+    Didn't expect to do the world a favor here!
+    was: This is the end of JAGA. / Do some good and die.
+
+[419] Hayate -> Whip   CORRECTED
+    Hmm. A whip stops the boomerang...
+    I see how to improve the Fist of Fu-Un! Thanks!
+    was: Hmm. A boomerang stops the whip...  / I've invented a new Fu-Un move. Thanks!
+
+[424] Adelheid -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Flawless, dear brother!
+    An ultimate victory, worthy of our bloodline!
+
+[425] Adelheid -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    The whining of a loser...
+    Hee hee, such a mournful melody, isn't it?
+
+[426] Adelheid -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    There is no need to push yourself.
+    The match is decided, and you fought well.
+
+[427] Adelheid -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Is this... Victory?
+    And yet, what is this emptiness...
+
+[432] Silber -> any opponent   CORRECTED
+    Weakling...
+    was: Eunuch... 
+
+[436] Silber -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Feeble...
+
+[437] Silber -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Foolish...
+
+[438] Silber -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Stooge...
+
+[439] Silber -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ......
+
+[448] Jazu -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Hoo, hoo... Die...
+    Die...! Die...!! Hoo, hoo, hoo, hoo!!
+
+[449] Jazu -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    This is the Assassin Way of JAGA...
+    Hoo, hoo, hoo...
+
+[450] Jazu -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    You... now... I kill...
+    Hoo, hoo...
+
+[451] Jazu -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Suffer... then die... Hoo, hoo, hoo...
+
+[460] Shion -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    "Know the enemy, know yourself, fear no battle."
+    Start by knowing your own strength. Your place!
+
+[461] Shion -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    "An army's form is like water."
+    It lacks flexibility, that fighting of yours!
+
+[462] Shion -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    As for you, let's see...
+    I'll have you drawn and quartered!
+
+[463] Shion -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    I'm done forgiving you.
+    I'll make you beg me in tears to kill you...
+
+[466] Shion -> K'   CORRECTED
+    The possibilities people hold...
+    No... it couldn't be.
+    was: The possibilities people hold...  / It's almost...encouraging!
+
+[469] Magaki -> Oswald   CORRECTED
+    Old man... Your remaining days
+    have come to an end right now!
+    was: Old man... You're rolling home / days have come to an end right now!
+
+[471] Magaki -> Elisabeth   CORRECTED
+    Blanctorche. Manipulator of the light...
+    But alone, in the end, it's lights out for you!
+    was: Branctorche. Manipulator of the light...  / But alone, in the end, it's lights out for you!
+
+[477] Magaki -> Ryo   CORRECTED
+    So this is the "extreme"?
+    Humans truly are beneath notice.
+    was: So this is Kyokugen Karate? / No wonder your gym's in dire straits.
+
+[482] Magaki -> Griffon   CORRECTED
+    What's the problem?
+    Hear the kids crying? Kyah, kyah, kyah!
+    was: What's the problem? / Hear the kid's crying? Kyah, kyah, kyah!
+
+[487] Magaki -> Kensou   CORRECTED
+    You seem to have an intriguing power...
+    Now, what shall I do with it...?
+    was: You seem to have an intriguing power, / what happened to it...? 
+
+[501] Magaki -> Gai   CORRECTED
+    Mixed martial arts?
+    Jack of all trades, master of none, right?
+    was: A synchronistic fighting style? / Amateur of all, master of none, right?
+
+[507] Mai -> any opponent   CORRECTED (a line of the North American release)
+    How'd you like a humble Japanese woman
+    who fights? ...My strength adds to my
+    beauty, you know!
+    was: How'd you like a humble Japanese woman /  who fights? ...My strength adds to my / beauty, you know!
+
+[533] Mr. Big -> any opponent   CORRECTED (a line of the North American release)
+    Give up already.
+    Someone as weak as you is no match for me.
+    was: Give up already. / I'm no match for someone as weak as / you.

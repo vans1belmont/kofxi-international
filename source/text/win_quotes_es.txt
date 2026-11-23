@@ -1,0 +1,1585 @@
+THE KING OF FIGHTERS XI INTERNATIONAL -- WIN QUOTES, SPANISH: the lines this patch wrote or changed
+
+The game has 611 win quotes: for each character, eight general ones and some for named opponents.
+Listed here are the lines that are new or rewritten. The other entries are SNK's arcade Spanish, which is all capitals with no accents: its words are kept, set in mixed case with accents and opening marks.
+372 lines: 260 new, 112 polished.
+
+[004] Ash -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Mis llamas son de edición especial.
+    ¡Te haré cenizas, con todo y tu orgullo!
+
+[005] Ash -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Con fuego verde, la ceniza sale igual de gris.
+    Gris ratón: el color de la humillación. Ja, ja♪
+
+[006] Ash -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Me sorprendiste, ¿eh?
+    ¡Por lo taaan débil que eres!
+
+[007] Ash -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ándale, levántate y saluda al público.
+    Te esforzaste mucho. Aunque perdiste. Ja, ja♪
+
+[010] Ash -> Shen   POLISHED
+    ¡Ay, ay, ay!... ¡No me pegues tan fuerte, Shen!
+    ¡Casi me rompo una uña!
+    was: AYA!... ALIGERA UN POCO TU MANO, POR FAVOR SHEN! / QUE CASI ME ROMPO UNA UÑA!
+
+[011] Ash -> Iori   POLISHED
+    Uf... como era de esperarse, Yagami.
+    Luego volvemos a jugar, ¿va? Ja, ja♪
+    was: EAAA, ASI SE HACE, YAGAMI... TENDREMOS / QUE JUGAR OTRA GAMBETEADA PRONTO! JA JA♪
+
+[012] Oswald -> any opponent   POLISHED
+    Buen trabajo en equipo. Hasta las cartas
+    baratas, juntas, hacen color.
+    was: BUEN JUEGO EN EQUIPO. UNA TARJETA MAS  / Y CASI TE DA UN SOPONCIO.
+
+[013] Oswald -> any opponent   POLISHED
+    No lo haces nada mal.
+    ¡Una tercia de ases! Me impresionas.
+    was: NO ERES DEL TODO MALO. TU TERCERA / TARJETA FUE UN VERDADERO AS!
+
+[016] Oswald -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Si te duele, dilo.
+    Una cara para el póker no quita el dolor.
+
+[017] Oswald -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Entiende tu posición.
+    ¿Por qué subes la apuesta con un par de treses?
+
+[018] Oswald -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Aun en racha, piensa en cuándo retirarte.
+    Es la regla de oro de los juegos de cartas.
+
+[019] Oswald -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Tu ataque es algo monótono.
+    ¿Y si barajas un poco lo fuerte y lo suave?
+
+[023] Oswald -> King, Vanessa   POLISHED
+    Tu ataque y tu defensa son de manual.
+    ¿Solo en la elegancia te crees reina?
+    was: BASTANTE COMUN LA OFENSIVA Y LA DEFENSIVA. / TE PARECES A UNA REINA.
+
+[024] Shen -> any opponent   POLISHED
+    Eres buen rival. ¡Vuelve el año que entra
+    y con gusto te doy otra paliza!
+    was: ERES BASTANTE BUEN RIVAL. HASTA LA VISTA! / CUANDO TENDRE EL GUSTO DE SOPAPEARTE OTRA VEZ.
+
+[025] Shen -> any opponent   POLISHED
+    ¡Me duermes! Tus técnicas, tus movimientos,
+    hasta tu cara me dan bostezos.
+    was: ERES EN VERDAD UN RIVAL ENERVANTE. / Y UN ENORME GESTALT DE MONOTONIA!
+
+[027] Shen -> any opponent   POLISHED
+    Qué flojera me das.
+    ¿Creíste que ganarías nomás defendiéndote?
+    was: TU PROVOCAS UN FESTIVAL DE BOSTEZOS COMO RIVAL. / GANAR SOLO A LA DEFENSIVA? ERES NEUTRAL?
+
+[028] Shen -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Oye, defiéndete un poco, ¿no?
+    ¡Así parece que me ando pasando de lanza!
+
+[029] Shen -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Ja! Me dejas sin palabras...
+    ¡Ni siquiera notaste la diferencia de nivel!
+
+[030] Shen -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ni siquiera me calenté...
+    ¡Oye, vamos a lo que sigue!
+
+[031] Shen -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Es temprano para dormir... ¡Levántate!
+    ¡En Shanghái, apenas empezaría lo bueno!
+
+[036] Elisabeth -> any opponent   POLISHED
+    No tendré piedad con un rival sin estrategia.
+    Ten presente que así perderás la vida.
+    was: NADIE QUIERE A UN GALLINA. PREPARA TU / PROGRAMA! O ESTE SERA EL FIN DE TU CARRETEL.
+
+[037] Elisabeth -> any opponent   POLISHED
+    Qué actitud tan insolente...
+    Perder te servirá para reflexionar.
+    was: TIENES UNA ACTITUD TAN INSOLENTE... NECESITAS / UN RECAMBIO DE PERSONALIDAD, ARRUINADO!
+
+[039] Elisabeth -> any opponent   POLISHED
+    Tirador sin puntería...
+    Tus puños salen antes que tus ideas.
+    was: TU ERES UN TIRADOR MUY INGENUO. TE CONVIENE / ESTUDIAR LA REALIDAD ANTES DE IR A LA GUERRA.
+
+[040] Elisabeth -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Te aparté sin el menor esfuerzo.
+    Para mí, ni siquiera existes.
+
+[041] Elisabeth -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    La victoria no le sonríe a quien no tiene
+    coraje suficiente. Tu moral ha perdido por ti.
+
+[042] Elisabeth -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Atacas de frente, como un jabalí.
+    ¿Acaso prefieres los estilos anticuados?
+
+[043] Elisabeth -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    El guerrero perfecto es solo un ideal.
+    Ni tú ni yo debemos olvidarlo.
+
+[047] Elisabeth -> Shion   POLISHED
+    Eres un ser tan vil...
+    Mientras viva, ¡nunca te lo perdonaré!
+    was: QUE TIPO TAN VIL RESULTASTE. / MIENTRAS YO TOMO AIRE, TU NUNCA PODRIAS...
+
+[048] Duolon -> any opponent   POLISHED
+    Escucha... los gritos obsesivos que se hunden
+    en el fondo del mar. ¿Los oyes?
+    was: LOS ESCUCHAS? SON LOS GRITOS DE PENSAMIENTOS / IMPERTINENTES DESDE EL FONDO DEL MAR?
+
+[049] Duolon -> any opponent   POLISHED
+    Vivir en la penumbra no es someterse a ella.
+    Estar en la sombra no es vivir en ella.
+    was: VIVIR EN PENUMBRAS NO ES SOMETERSE A ELLA. / ESTAR EN LA SOMBRA NO ES VIVIR EN ELLA.
+
+[052] Duolon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Para y escucha... continúa la danza obsesiva
+    de los susurros en el viento.
+
+[053] Duolon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Una infinidad de miradas fijas aquí.
+    Ser un espectáculo... no es lo mío.
+
+[054] Duolon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Cerrar los ojos al miedo cuesta la victoria...
+    Antes de ganar, no pierdas ante ti.
+
+[055] Duolon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Lo sientes?
+    La danza de las almas en mi oscuridad...
+
+[056] Duolon -> Ash   POLISHED
+    Con fuego no podrás consumirlo todo...
+    Mi alma, jamás.
+    was: TU NO PUEDES FUNDIRLO SOLO CON LLAMAS. / NI PUEDES CHAMUSCAR MI ALMA...
+
+[057] Duolon -> Shion   POLISHED
+    "Si no conoces al enemigo, ganas y pierdes".
+    Debiste conocerme también a mí...
+    was: "NO CONOZCAS A TU ENEMIGO, CONOCETE A TI MISMO". / BAH! CONOCEME A MI O PERECERAS!
+
+[060] Benimaru -> any opponent   POLISHED
+    ¡No, no! ¡Cae de forma más dramática!
+    Si no, mi victoria no luce, ¿no crees?
+    was: NO, NO! NO PUEDES CAER MAS TEATRALMENTE? / LAS PIBAS QUIEREN TRIUNFOS MAS DRAMATICOS, NO?
+
+[061] Benimaru -> any opponent   POLISHED
+    Gané demasiado fácil. ¡Como protagonista,
+    debí ponerle más emoción!
+    was: GANE DEMASIADO FACILMENTE. COMO HEROE, / EBO TRATAR DE USAR EFECTOS MAS DRAMATICOS!
+
+[064] Benimaru -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ni hizo falta electrocutarte.
+    Mi estilo te dio un shock al corazón, ¿no?
+
+[065] Benimaru -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Qué mal... Si compartes escenario conmigo,
+    ¡pierde con más estilo, por favor!
+
+[066] Benimaru -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Ya estaré perdiendo el toque?
+    Pensaba ganar con mucho más estilo...
+
+[067] Benimaru -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ya me cansé de ganar todo el tiempo...
+    Qué envidia: tú sí puedes descansar.
+
+[069] Benimaru -> Elisabeth   POLISHED
+    Quita ese ceño fruncido.
+    Así arruinas tu belleza.
+    was: YO NO HARIA TANTAS MUECAS DE DOLOR, / PORQUE TE HACEN VER TANTO MENOS DELICIOSA!
+
+[071] Benimaru -> Duck   POLISHED
+    ...Lo siento.
+    Tu sentido de la moda no lo entiendo.
+    was: ...CORTAME ALGO HOLGADO. / YO NO TENGO TU SENTIDO DE LA MODA.
+
+[074] Terry -> any opponent   POLISHED
+    Esa mirada... Solo quien pierde con esa
+    mirada se vuelve fuerte de verdad.
+    was: ESE ES EL ESTILO! UN ESTILO ASI, / Y YO SE QUE UN DIA SERAS MUY FUERTE.
+
+[076] Terry -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Una pelea sucia no me asusta.
+    ¡Yo me hice fuerte peleando en la calle!
+
+[077] Terry -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Soy cliente frecuente de estos torneos.
+    ¡Era de esperarse que me luciera!
+
+[078] Terry -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Yeah!
+    Somos un gran equipo, ¿no crees?
+
+[079] Terry -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Lo diste todo hasta el último momento...
+    Recordaré el brillo de tu poder, ¿OK?
+
+[080] Terry -> Ryo   POLISHED
+    Lo siento.
+    ¡Parece que alcanzaré primero yo el límite!
+    was: ASI ES COMO EL SEMBEI SE DESMORONA! / PARA LLEGAR A KYOKUGEN SE VA COMO EL LOBO!
+
+[088] Kim -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Esto es el taekwondo...
+    ¡El arte marcial más fuerte del mundo!
+
+[089] Kim -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Chang, Choi, ¿prestaron atención?
+    Aunque no compitan, ¡su reforma continúa!
+
+[090] Kim -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    No te preocupes. Nunca es tarde
+    para aprender justicia y taekwondo.
+
+[091] Kim -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Mi Patada del Fénix nunca pierde...
+    ¡igual que la justicia!
+
+[092] Kim -> Kim   POLISHED
+    ¿Tanto anhelas la justicia de mi corazón
+    que te disfrazas de mí? ¡Tiene sentido!
+    was: SI DESEAS IMITAR MI CORAZON JUSTO, ENTONCES / DEBES IMITARME A MI... QUE CABEZA LOCA!
+
+[093] Kim -> Silber, Jazu   POLISHED
+    ¡Chang, llévalo a casa y cura sus heridas!
+    Y no olvides prepararle para la clase.
+    was: CHAN, LLEVALO A CASA, CURA SUS HERIDAS / Y PONLE LOS PAÑALES DE LA JUSTICIA!
+
+[100] Duck -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Ups, SORRY!
+    ¡Se me olvidó contenerme!
+
+[101] Duck -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Dime, ¿WHAT HAPPENED?
+    ¡Si apenas te di un toquecito!
+
+[102] Duck -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡NO, BABY!
+    ¡No vas a mi ritmo!
+
+[103] Duck -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡BORING!
+    ¡Qué pelea tan aburrida!
+
+[112] Ryo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Esta vez Robert no vino.
+    ¡Así que me toca echarle el doble de ganas!
+
+[113] Ryo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Cada golpe lo doy para que sea el último.
+    ¡Si no vas en serio, no lo vas a aguantar!
+
+[114] Ryo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Cargar con el nombre del dojo no está nada mal.
+    ¡Ese peso me hace todavía más fuerte!
+
+[115] Ryo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Mejor ve rápido al dentista.
+    Te rompí dos o tres muelas, ¿no?
+
+[117] Ryo -> King   POLISHED
+    Qué suerte tener tan buenos rivales cerca...
+    Oye, ¿estás enojada conmigo?
+    was: QUE BENDICION TENER UN ADVERSARIO IDEAL CERCA... / EY, ESTAS ENOJADO CONMIGO? QUE TE PASA?
+
+[118] Ryo -> Hayate, Shion, Jazu   POLISHED
+    ¡Contra alguien armado,
+    no me queda más que usar el Haoh Shokoken!
+    was: SI TE VES FRENTE A UN ENEMIGO ARMADO, / DEBES USAR LA MOLIENDA DEL CONQUISTADOR!
+
+[120] Yuri -> any opponent   POLISHED
+    ¡Je, je, je! ¿Verdad que no lo hago mal?
+    En mi barrio me dicen "la bonita del Kyokugen".♪
+    was: EH JE JE! YO SE LO QUE ME TRAIGO, EH!? / EN MI BARRIO ME LLAMAN EL "PIBE KYOKUGEN".♪
+
+[123] Yuri -> any opponent   POLISHED
+    ¿Dónde está la cámara?
+    ¡Yeahhh!♪
+    was: ADONDE ESTA LA CAMARA? / YEAHHH!♪
+
+[124] Yuri -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Ya hay inscripciones abiertas para el dojo
+    Kyokugen, con la dulce Yuri como instructora!
+
+[125] Yuri -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ya estuvo suave por hoy.
+    ¡Te la paso, por esta vez!
+
+[126] Yuri -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Upa...! Anda, párate bien.
+    ¡Ni te pegué tan fuerte!
+
+[127] Yuri -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Para ganarle a la gran Yuri,
+    ¡todavía te falta mucho entrenamiento!♪
+
+[131] Yuri -> Gai   POLISHED
+    Oye, Tendo, este... ¿me harías el favor
+    de gritar "¡Hurricane Upper!"?
+    was: EY, USTEDES! ME HARIAN EL FAVOR DE / GRITAR "CABEZA DE HURACAN" POR MI?
+
+[133] King -> any opponent   POLISHED
+    Este torneo está muy flojo. Me divertía más
+    en mis tiempos de matona.
+    was: ESTE TORNEO ANDA DEBIL. YO LO PASE / MUCHO MEJOR CUANDO ERA GUARDAESPALDAS.
+
+[134] King -> any opponent   POLISHED
+    ¿Ustedes tienen ganas de pelear o qué?
+    Si no, yo mejor me voy.
+    was: HOLA, GOMOSOS, VINIERON AQUI A COMBATIR? / SI NO, YO ME HAGO HUMO ENSEGUIDA!
+
+[136] King -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Vengo del bajo mundo de los matones.
+    Mejor ahórrate tus ataques sorpresa.
+
+[137] King -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Parece que todavía no lo entiendes...
+    Perdiste. Acéptalo.
+
+[138] King -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Uf... aunque no lo parezca, practico muay thai.
+    Aguanto más golpes de lo que aparento.
+
+[139] King -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Qué patético... ¡Levántate!
+    ¡Aunque sea, aguanta y haz como que no te duele!
+
+[142] King -> Gai, K'   POLISHED
+    ¿Acaso no lo sabías, baby?
+    ¡Las rosas tienen espinas!
+    was: NUNCA TE LO DIJO ALGUIEN, PIBE? / CADA ROSA TIENE SUS ESPINAS!
+
+[148] Jenet -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    No te pongas tan serio, ¿okay?
+    Me haces sentir un poco culpable, ¿eh?
+
+[149] Jenet -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Ay, no! ¡Mi vestido!
+    ¡Me lo vas a pagar hasta el último centavo!
+
+[150] Jenet -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Qué ataque tan fuerte!
+    Vaya, el KOF no es para tomarse a la ligera.
+
+[151] Jenet -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Muchachos, esa balacera fue muy pobre!
+    ¡A ver si se aplican!
+
+[154] Jenet -> Oswald   POLISHED
+    ...Me recuerdas a mi papá.
+    Bua... bua... bua...
+    was: ...TU ME HACES ACORDAR DE MI PAPA. / BUA... BUA... BUA...
+
+[155] Jenet -> Ash   POLISHED
+    ¡Qué bonitas uñas!
+    ¿Me harías las mías igual?♪
+    was: ESO PARECE ALGUN ARTE DE UÑA SALVAJE! / TE IMPORTARIA HACER EL MIO DE ESA MANERA?♪
+
+[160] Gato -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Golpear. Romper. Triturar...
+    ¡Y aplastar!
+
+[161] Gato -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Vine porque decían que era un torneo mundial,
+    ¡y no llega ni a reunión de pandilleros!
+
+[162] Gato -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Qué patético.
+    ¡Sigue viviendo en tu miseria, si puedes!
+
+[163] Gato -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ...Lárgate.
+
+[164] Gato -> Ash   POLISHED
+    ¡Borra esa sonrisita de tu cara!
+    ¿Quieres que te rompa todos los dientes?
+    was: BORRAR ESE GESTO REMILGADO DE TU ROSTRO! / QUIERES UNA BOCA LLENA DE DIENTES TRITURADOS?
+
+[172] Griffon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Tizoc nunca pierde!
+    ¡Derrotaré a todos los villanos!
+
+[173] Griffon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Me levantaré cuantas veces sea necesario!
+    ¡La voz de los niños es mi fuerza!
+
+[174] Griffon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Están aquí presentes, los escucho...
+    ¡Los deseos de los niños me respaldan!
+
+[175] Griffon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Sin importar el tiempo ni el rival,
+    ¡Tizoc no abandonará la lucha!
+
+[176] Griffon -> Hayate, Gai   POLISHED
+    ¡Siento el arder de tu corazón!
+    ¡Las llamas de tu ser son de verdad!
+    was: AUNQUE NO PUEDAS PEGAR TIROS COMO KYO!
+
+[182] Ralf -> any opponent   POLISHED
+    ¡Oigan, basta de retorcerse en el suelo!
+    ¡Firmes! ¡Media vuelta! ¡Retírense!
+    was: EY, BASTA DE RETORCERTE DE DOLOR! / ATENCION! HASTA ALLI! ROMPER FILAS!
+
+[183] Ralf -> any opponent   POLISHED
+    Qué aburrido... Para esto, mejor me
+    hubiera ido de escolta con el jefe...
+    was: QUE ABURRIDO... SI ME DAN A ELEGIR, / PREFERIRIA DIVERTIRME CON UN NO-COM!
+
+[184] Ralf -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ponte hielo en la cara, ¿eh?
+    Que si no, mañana se te va a hinchar.
+
+[185] Ralf -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ganarle tan fácil a alguien sin experiencia...
+    fue medio infantil de mi parte, ¿no?
+
+[186] Ralf -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Mucho show, pero no dolió tanto, ¿verdad?
+    Es la cortesía de un profesional.
+
+[187] Ralf -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Oye, oye, ponte las pilas!
+    En un campo de batalla, eso te mataba.
+
+[188] Ralf -> Ralf   POLISHED
+    ¿Y este señor tan apuesto quién es?
+    ¡Ah, solo un viejo disfrazado de mí!
+    was: YO PENSE QUE ESTABAS DESTRIPADO, / PERO SOLO ERES UN IMPOSTOR DE TERCERA CLASE!
+
+[190] Ralf -> Ryo, Yuri, Robert   POLISHED
+    El límite de verdad no cabe en un dojo,
+    ¡está en el campo de batalla!
+    was: KYOKUGEN SIGNIFICA "EXTREMO", VERDAD? / Y "EXTREMO" ES LO QUE YO HAGO, LEGO!
+
+[196] Clark -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Caray! Qué pasado es el jefe.
+    Nos echa encima todo el trabajo pesado...
+
+[197] Clark -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Hay cosas que el entrenamiento no te da.
+    Junta más experiencia en combate real.
+
+[198] Clark -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    El torneo es parte de nuestra misión pero...
+    ¿no será que llamamos mucho la atención?
+
+[199] Clark -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Tener confianza es importante, pero...
+    lo tuyo ya va para exceso.
+
+[204] Whip -> any opponent   POLISHED
+    Alto. Cierra la boca.
+    Las excusas solo te hacen ver peor.
+    was: ALTO! YA PONLE UNA MEDIA A ESE. / TUS EXCUSAS SON TAN POCO CONVINCENTES...
+
+[208] Whip -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Creíste poder escapar de mi látigo en un ring
+    tan chico? Intenta de nuevo, en campo abierto.
+
+[209] Whip -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Piensas que debo ser muy cuadrada, ¿verdad?
+    Pues ni modo...
+
+[210] Whip -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Dar al punto débil en solo un instante.
+    A mi látigo y a mí nos basta con eso.
+
+[211] Whip -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Tan solo un milímetro.
+    Entre ganar y perder, eso es todo lo que hay.
+
+[213] Whip -> Kula   POLISHED
+    ¿¡Estás herida!?
+    ...Qué bueno, no te pasó nada...
+    was: OH... GRACIAS AL CIELO... USTED NO ESTA / TAN APORREADO COMO HABIA PENSADO.
+
+[217] Athena -> any opponent   POLISHED
+    ¡Mi poder psíquico está al tope!
+    ¡A este paso, seguro que gano!
+    was: MI PODER PSIQUICO ESTA AL TOPE! / A ESTE PASO, ESTOY SEGURO QUE GANARE!
+
+[218] Athena -> any opponent   POLISHED
+    Siento una presencia maligna...
+    ¡Debo seguir sin perder!
+    was: ALGO TERRIBLE SE ESTA ACERCANDO A MI... / HOMBRE, TE HAS BAÑADO ESTA SEMANA?
+
+[220] Athena -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Pese a mi agenda yo entreno todos los días.
+    ¡El esfuerzo nunca me ha fallado!
+
+[221] Athena -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Qué ovación...
+    ¡Muchas graaacias a todos!
+
+[222] Athena -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Qué les parece mi vestuario de este año?
+    ¡A mí me encanta!♪
+
+[223] Athena -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ahorita debo asistir a una grabación.
+    Los autógrafos, para la próxima, ¿sí?
+
+[224] Athena -> Athena   POLISHED
+    ¡No puede ser! Por más ocupada que esté,
+    ¡¿cómo deciden meter a una doble?!
+    was: ESTOY MUY EN CONTRA. YA SE QUE TENGO TRABAJO / PERO COMO PUDO MI AGENCIA CONTRATAR A UN MIMO!?
+
+[229] Kensou -> any opponent   POLISHED
+    Perdón, creo que me pasé contigo.
+    Te regalo un pan de curry, traigo de sobra.
+    was: ME DA MUCHA PENA HABERLO PERDIDO. / TEN ESTE PAN DE CURRY. NO LO NECESITO YO. 
+
+[232] Kensou -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡No entrené todo un año nomás por gusto!
+    ¡Ni se te ocurra subestimarme!
+
+[233] Kensou -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Mejor ponte de ladito un rato.
+    Me pasé de lanza. Perdóname, ¿sí?
+
+[234] Kensou -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    No pasa nada, ¡al micro y queda listo!
+    ...¿Eh? ¡Hablo de mi pan de carne, claro!
+
+[235] Kensou -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Me salió perfecto, diría yo!
+    Athena, ¿te fijaste?
+
+[236] Kensou -> Athena   POLISHED
+    Tranquila, Athena.
+    Me contuve contigo.
+    was: NO PUEDE SER TAN MALO, ATHENA. / TUVE CUIDADO DE NO ABUSARME DE TI.
+
+[239] Kensou -> Duolon   POLISHED
+    Eres demasiado callado, ¿no crees?
+    ¡Así nunca te harán caso las chicas!
+    was: TU ERES UN CABRO LACONICO, VERDAD? / ASI NUNCA CONQUISTARAS A UNA CHICA!
+
+[241] Momoko -> any opponent   POLISHED
+    ¿Te dolió?
+    ...Perdón, perdón...
+    was: TE DOLIO? / ...LO SIENTO MUCHO, MACHO, MUCHO!
+
+[243] Momoko -> any opponent   POLISHED
+    ¡Ya te dije que Momoko no va en primaria!
+    was: MOMOKO NO ES UNA CRIA QUE TE TIMA!
+
+[244] Momoko -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Uy...
+    Dolió... ¡pero Momoko no lloró!
+
+[245] Momoko -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Ya casi es hora de comer!
+
+[246] Momoko -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Todos son muy fuertes...
+    ¡Momoko le va a echar muchas más ganas!
+
+[247] Momoko -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Ji, ji, ji!
+    ¡Te ganéee!♪
+
+[252] Vanessa -> any opponent   POLISHED
+    Qué decepción. ¿Golpes tan abiertos contra
+    una boxeadora? Es rogar por una contra.
+    was: GORRON! VIRAJES BRUSCOS CONTRA UN BOXEADOR... / ES COMO PEDIR QUE TE DEN UNA TUNDA!
+
+[254] Vanessa -> any opponent   POLISHED
+    Si entras con un-dos tan predecible,
+    ¡hasta un tonto te contraataca! ¡Varía!
+    was: ENTRAR DESPUES DE UNA TROMPADA UNO-DOS... / UN TERRON PODRIA PARARLO! INVENTA! USALO!
+
+[256] Vanessa -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Se acabó el trabajo de hoy!
+    ¡Vamos todos por unos tragos! ¡Yo invito!
+
+[257] Vanessa -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Eres un rival de primera...
+    Para hacer sparring, claro.
+
+[258] Vanessa -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Una victoria fácil...
+    El KOF de este año está algo flojo, ¿no?
+
+[259] Vanessa -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Lo importante es entrenar con constancia.
+    ...Sé de un buen equipo de ejercicio, ¿quieres?
+
+[260] Vanessa -> K'   POLISHED
+    Todavía eres un novato, ¿verdad?
+    ¡Junta más experiencia, cariño!
+    was: TODAVIA ERES UN NOVATO, VERDAD? / JUNTA MAS EXPERIENCIA, PIBE!
+
+[262] Vanessa -> Momoko   POLISHED
+    Ay, a estas alturas, más que mi hermana,
+    pareces mi hija... ejem, ejem.
+    was: ME TIRASTE POR EL AGUJERO. / TU, JOVENCITA, YA NO ERES UNA NIÑA!
+
+[264] Mary -> any opponent   POLISHED
+    No tienes habilidad en tu ataque.
+    ¡Debes leer el juego, como en el ajedrez!
+    was: NO TIENES HABILIDAD EN TU ATAQUE. / DEBES APRENDER A LEER EL JUEGO, COMO EN AJEDREZ!
+
+[267] Mary -> any opponent   POLISHED
+    Ya no tiene caso seguir.
+    ¿Por qué no vuelves a entrenar desde cero?
+    was: YO COLGARIA LOS GUANTEES, AMIGO. / O VOLVERIA A LA TABLA DE DISEÑO.
+
+[268] Mary -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Aguantar tanto no siempre es buena idea.
+    Un poco más y te tenía que romper el brazo.
+
+[269] Mary -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Eh? ¿Que el cinturón es muy grande?
+    Es un accesorio bastante normal.
+
+[270] Mary -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Qué estrategia tan predecible.
+    Vaya que me subestimaste.
+
+[271] Mary -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Creo que me pasé un poco...
+    Y yo que no quería llamar la atención...
+
+[277] Ramon -> any opponent   POLISHED
+    ¿Ya acabaste? ¡En México
+    las luchas son mucho más intensas!
+    was: CONQUE YA ACABASTE? EN MEXICO, / LAS BATALLAS SON VERY MUCHO MAS DIFICILES!
+
+[279] Ramon -> any opponent   POLISHED
+    Tienes talento de verdad.
+    ¡Serías un rudo de primera, seguro!
+    was: TU TIENES TALENTO DE VERDAD AQUI. / Y BUEN TALON PARA COMBATIR, DE SEGURO!
+
+[280] Ramon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Un buen agarre aéreo a la velocidad de la luz!
+    ¡Así es la verdadera lucha libre!
+
+[281] Ramon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Esto es lucha mexicana, ¡no un simple teatro!
+    ¿Ya entendiste la diferencia?
+
+[282] Ramon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Qué tal? ¡Así se ve el talento de verdad!
+    No brilla igual que una imitación, ¿verdad?
+
+[283] Ramon -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Así es la fuerza que carga mi corazón!
+    Igual que los feroces vientos de México.
+
+[291] Malin -> any opponent   POLISHED
+    Y la ganadora es...
+    ¡la adorable Malin!♪
+    was: Y EL GANADOR ES... / LA PODEROSA POLLITA MALIN!♪
+
+[292] Malin -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Como dicen: el que se va a la villa...!
+
+[293] Malin -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Vaya...
+    ¡esto del KOF es pan comido!♪
+
+[294] Malin -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Uf...
+    E-eso estuvo un poquito difícil.
+
+[295] Malin -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Y no creas que esas son todas
+    las armas ocultas de Malin!
+
+[298] Malin -> Ryo   POLISHED
+    ¡Deberías educar mejor a tu hermana!
+    was: DEBES PONER EN LINEA A TU HERMANA!
+
+[303] Kasumi -> any opponent   POLISHED
+    ¡Leí tus movimientos!
+    ¡El estilo Todoh no descuida la perspicacia!
+    was: TE DESCIFRO COMO A NOVELA DE AEROPUERTO! / EL METODO TODOH ES EL CAMINO DE LA PERSPICACIA!
+
+[304] Kasumi -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Yo no sé hacer las cosas a medias.
+    ¡Entreno y peleo siempre con todo!
+
+[305] Kasumi -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Mi deber es proteger el
+    prestigio del estilo Todoh!
+
+[306] Kasumi -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Recibir un poco de daño no es nada!
+    ¡Mi voluntad será aún más grande!
+
+[307] Kasumi -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Aún me falta mucho.
+    Mi padre te habría vencido en un instante.
+
+[316] Eiji -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Con esta victoria, el estilo Kisaragi
+    crece aún más!
+
+[317] Eiji -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Mi ninjutsu es invencible!
+    ¡Tú serás quien cuente mi leyenda!
+
+[318] Eiji -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Excusas? Perdiste...
+    pero la lengua aún te funciona.
+
+[319] Eiji -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Un arte asesino, pulido por generaciones...
+    Graba en tu alma el poder del estilo Kisaragi.
+
+[326] K' -> any opponent   POLISHED
+    Qué pérdida de tiempo...
+    Vámonos de aquí.
+    was: QUE PERDIDA DE TIEMPO... / VETE DE EXCURSION, ARRUINADO!
+
+[327] K' -> any opponent   POLISHED
+    Oye...
+    ¿Piensas dejarlo así nada más?
+    was: PONTE SERIO... / HAS ACABADO POR FIN?
+
+[328] K' -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Me salpicó tu sangre?...
+    Otra vez tengo el puño de un color asqueroso.
+
+[329] K' -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Da mucha flojera, ¿sabes?
+    Pelear contra los débiles...
+
+[330] K' -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ni siquiera fue pelea.
+    Qué decepción, en serio.
+
+[331] K' -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Aunque vinieran todos juntos,
+    no me ganarían.
+
+[333] K' -> Kula   POLISHED
+    ...No te esfuerces de más.
+    was: ...NO TE ELIMINES A TI MISMO!
+
+[334] K' -> Maxima   POLISHED
+    Antes de seguir de entrometido,
+    primero termina tu mantenimiento.
+    was: ANTES DE METERTE EN ASUNTOS DE OTROS, / DEBERIAS PREOCUPARTE DE TUS PROPIOS GASTOS.
+
+[336] Kula -> any opponent   POLISHED
+    ¿Te dio frío? ¿Estás bien?
+    ...Perdón.
+    was: TIENES FRIO? ESTAS BIEN? / ...COMO SIEMPRE, LO SIENTO MUCHO.
+
+[337] Kula -> any opponent   POLISHED
+    ¡Sí! ¡Se acabó!
+    Diana, ¿y mi premio?
+    was: SEH... ESO ES TODO LO QUE ELLA ESCRIBIO. / DIANA, CUAL ES MI PREMIO?
+
+[338] Kula -> any opponent   POLISHED
+    Si hubieras dicho "me rindo",
+    te habría dejado a medias...
+    was: SI HUBIERAS DICHO "YO DOY", YO HABRIA / PARADO ANTES QUE OCURRIERA ESTA CARNICERIA.
+
+[340] Kula -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Se vale ganar así nada más?
+    Ay, pues qué fácil♪
+
+[341] Kula -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Oye, Diaaana, qué aburrido...
+    ¿Ya nos podemos ir?
+
+[342] Kula -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Creo que te rompiste un poquito...
+    Ve a que te arreglen bien, ¿okay?
+
+[343] Kula -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Verdad que ya se siente fresquito?
+    Ji, ji♪
+
+[344] Kula -> Whip   POLISHED
+    Eres tan dulce, Seirah.
+    ¡Te quiero mucho!
+    was: ERES TAN DULCE, SALA. / YO TE QUIERO MUCHO!
+
+[346] Kula -> Kyo, Iori, Ash   POLISHED
+    ¡Ay, no! ¡Odio el fuego!
+    ¡Lo odio, lo odio, lo odiooo!
+    was: POR QUE TU! YO ODIO EL FUEGO! / DE VERDAD, DE VERDAD, REALMENTE LO ODIO!
+
+[348] Maxima -> any opponent   POLISHED
+    Actualización de la base de datos completa.
+    Gracias por tu cooperación.
+    was: ACTUALIZACION COMPLETA DE LA BASE DE DATOS. / GRACIAS POR TU COOPERATION.
+
+[352] Maxima -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    El daño recibido supera lo esperado, pero...
+    todavía doy para mucho más.
+
+[353] Maxima -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ya no le sufras.
+    A ti no te pueden cambiar las piezas, ¿o sí?
+
+[354] Maxima -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Esa fue tu estrategia?
+    Ya sabes lo que dicen de pensar de más...
+
+[355] Maxima -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Cada golpe mío pesa diferente.
+    Y el dolor llega después, ¿verdad?
+
+[361] Kyo -> any opponent   POLISHED
+    ¿Piensas quedarte en el suelo toda la vida?
+    ¡Muestra un poco de orgullo!
+    was: TIENES PENSADO REBAJARTE DURANTE TODA TU VIDA? / MUESTRA ALGO DE CARACTER, POR FAVOR?
+
+[362] Kyo -> any opponent   POLISHED
+    Te falta dedicación. ¡El esfuerzo cuenta!
+    ¿Yo? ¡Yo soy la excepción a la regla!
+    was: TE FALTA DEVOCION. EL ESFUERZO CONSTANTE CUENTA! / YO? YO SOY LA EXCEPCION A LA REGLA!
+
+[364] Kyo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡El fuego es como una bestia sin control!
+    ... y la mía, todavía más.
+
+[365] Kyo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Tuviste uno que otro buen ataque...
+    ¿o fue de pura chiripa?
+
+[366] Kyo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Tu estrategia es patética.
+    ¿Crees que ganarás por pura suerte?
+
+[367] Kyo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Tienes una boca demasiado grande, ¿eh?
+    ¡Aprende a distinguir tu nivel!
+
+[369] Kyo -> Ash   POLISHED
+    Ni pienses que podrás escapar así nada más.
+    No me gusta ensañarme... pero prepárate.
+    was: TU NO PIENSAS QUE YA ACABO, NO? NO ESTOY / PARA ATORMENTAR A LOS FUNDIDOS... SOLO A TI.
+
+[373] Iori -> any opponent   POLISHED
+    ¡Alégrate! ¡Hay tiempo para otra canción!
+    ¡Al ritmo de tus huesos al hervir!
+    was: ALEGRATE! TO VOY A DAR UN ENCORE! / Y TE QUEMARE HASTA LA MEDULA!
+
+[375] Iori -> any opponent   POLISHED
+    ¿Solo vas a retorcerte en el suelo?
+    ¡Qué patético!
+    was: TE VAS A ANGUSTIAR TANTO? / TU ERES UN SER TAN PATETICO!
+
+[376] Iori -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Hmph...
+    Tu orgullo se hizo cenizas antes que tu cuerpo.
+
+[377] Iori -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡La muerte danzará contigo, hasta
+    que tu cuerpo caiga en cenizas!
+
+[378] Iori -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Si buscas arrepentirte, aún podrás
+    hacerlo... en el más allá.
+
+[379] Iori -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Recuérdame cada vez que mires la luna!
+
+[383] Iori -> Gato, Gai   POLISHED
+    ¿Eso fue un peleador de verdad?
+    ¡Ridículo payaso! ¡Lamenta tu deshonra!
+    was: Y TU DICES SER UN GUERRERO DE VERDAD? / PAYASO LASTIMOSO! NO TIENES VERGUENZA!
+
+[386] Shingo -> any opponent   POLISHED
+    ¡Así se siente ganar!
+    ¡Shingo va en racha de victorias!
+    was: ESA FUE UNA BATALLA DE CACIQUE! / ESTOY EN CAMINO A VICTORY TOWN!
+
+[387] Shingo -> any opponent   POLISHED
+    ¡Increíble! ¿Será que tengo talento?
+    ¡A este paso, hasta al señor Kusanagi...!
+    was: IMPRESIONANTE! DE VERAS TENGO TALENTO, EH? / ESTE PODER, MR. KUSANAGI... PUEDO PENSARLO?
+
+[388] Shingo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Todavía te falta mucho, Shingo!
+    ¡Un rival así debería caer al instante!
+
+[389] Shingo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Eh? ¿Y esos ánimos?
+    ¡Ánimo, ánimo! ¡A darle con todo!
+
+[390] Shingo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Como discípulo de Saisyu Kusanagi, ¡ahora soy
+    parte del nombre Kusanagi dentro del dojo!
+
+[391] Shingo -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Pequeños esfuerzos, poquito a poquito...
+    ¡y algún día superaré al señor Kusanagi!
+
+[392] Shingo -> Shingo   POLISHED
+    Uno, dos... ¡muy bien!
+    ¡Tú, ve a comprarme un pan de yakisoba!
+    was: EPA, JAMELGO... OK. / VE A BUSCARME PAN DE CHOW MEIN!
+
+[394] Shingo -> Gato, Gai   POLISHED
+    Usted sí que se tiene confianza, ¿eh?
+    ¡Pero lo mejor es ser humilde!
+    was: ESTAS COMO CLAVADO CONTIGO MISMO, EH? / PERO LA GENTE REAL DEBE TENER MAS HUMILDAD!
+
+[398] Gai -> any opponent   POLISHED
+    ¿Que si fue un reto?
+    Para nada.
+    was: UN SENTIMIENTO DE REALIZACION? / SOLO ESTAS BROMEANDO, NO?!
+
+[399] Gai -> any opponent   POLISHED
+    ¿Me dejas pasar?
+    ...Gracias.
+    was: POR FAVOR, SAL DE MI CAMINO? / ...MUY AGRADECIDO. NAH!
+
+[400] Gai -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Practico artes marciales mixtas.
+    Como abarca todo, no hay puntos débiles.
+
+[401] Gai -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Me habré pasado?
+    Perdón, todavía no le agarro la onda al KOF.
+
+[402] Gai -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Para qué buscarle lógica a ser fuerte o débil?
+
+[403] Gai -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Ni al caso...
+    Bueno, yo ya me voy.
+
+[406] Gai -> Kasumi   POLISHED
+    No te recomiendo artes antiguas ni aikido.
+    Son anticuadas y débiles... ni al caso.
+    was: ARTE MARCIAL ANTIGUO? AIKIDO? / TODO ESO ES VIEJO PARA MI... ENGAÑOSO!
+
+[407] Gai -> Duolon   POLISHED
+    Aquí lo único que cuenta es ganar, ¿no?
+    No te hagas el trágico.
+    was: CUANTO RECIBO POR DARTE UNA PALIZA? / OH, NO ACTUES COMO HEROE DE UNA TRAGEDIA.
+
+[410] Hayate -> any opponent   POLISHED
+    ¡Mi nombre es Sho Hayate!
+    ¡Soy el campeón del Fu-un!
+    was: MI NOMBRE ES SHO HAYATE! / LA GENTE ME LLAMA EL CHICO FUNKY DEL FU-UN!
+
+[412] Hayate -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Todavía no termina! ¡Levántate!
+    ¡El estilo Fu-un es más fuerte que esto!
+
+[413] Hayate -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡El puño Fu-un evoluciona sin parar!
+    ¡Estrategias anticuadas no te servirán!
+
+[414] Hayate -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡No olvides ni mi nombre
+    ni el golpe del estilo Fu-un!
+
+[415] Hayate -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Qué pelea... qué pelea tan intensa!
+
+[417] Hayate -> Jazu   POLISHED
+    Se acabó el Jaga.
+    ¡Sin querer, le hice un favor a la gente!
+    was: ESTE ES EL FINAL DE JAGA. / HAZ ALGO BUENO Y MUERE.
+
+[419] Hayate -> Whip   POLISHED
+    Ya veo, el látigo puede frenar al bumerán...
+    ¡Una pista para mejorar el Fu-un! ¡Gracias!
+    was: HUM. UN BUMERANG DETIENE AL LATIGO... ACABO / DE INVENTAR UNA NUEVA ACCION FU-UN. GRACIAS!
+
+[420] Adelheid -> any opponent   POLISHED
+    Hasta para pelear hay modales, hermano.
+    ¡Quien no cae con elegancia, que muera!
+    was: HAY MODALES PARA LUCHAR TAMBIEN. / LOS QUE NO CAEN CON GRACIA, MUEREN!
+
+[421] Adelheid -> any opponent   POLISHED
+    Ay, qué manera poco digna de perder...
+    Da lástima, ¿verdad, hermano?
+    was: QUE FORMA TAN INDIGNA DE PERDER. / LOS NECIOS COMO TU ME DAN LASTIMA!...
+
+[424] Adelheid -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¡Impecable, hermano!
+    ¡Una victoria suprema, digna de nuestro linaje!
+
+[425] Adelheid -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Escucha los lamentos de ese perdedor...
+    Ji, ji. Qué triste melodía, ¿verdad, hermano?
+
+[426] Adelheid -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Por favor, ya no sufras más.
+    La pelea terminó, y peleaste bien.
+
+[427] Adelheid -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Una victoria más... y aun así
+    ¿qué es este vacío...?
+
+[428] Adelheid -> Kyo   POLISHED
+    ¿Es todo lo que puede hacer este sujeto?
+    Hermano, ¿cómo pudo derrotar a papá...?
+    was: UN TIPO ASI... ESO ES TODO? / LO PERDISTE, PADRE!
+
+[429] Adelheid -> Jazu, Silber   POLISHED
+    ...¡Qué cara tan vulgar!
+    Hermano, por eso odio a la plebe.
+    was: ...QUE HOCICO TAN FEO TIENES! / POR ESO ODIO A LOS PLEBEYOS!
+
+[431] Adelheid -> Terry   POLISHED
+    Ya entiendo, eres un lobo, ¿verdad?
+    Tus colmillos y garras son reales.
+    was: YA VEO, UN LOBO SOLITARIO...? / TUS COLMILLOS Y TALONES SON REALES.
+
+[432] Silber -> any opponent   POLISHED
+    Qué debilidad...
+    was: EUNUCO...
+
+[436] Silber -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Qué frágil...
+
+[437] Silber -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Qué necedad...
+
+[438] Silber -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Qué torpeza...
+
+[439] Silber -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ......
+
+[448] Jazu -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Joo, joo... Muere...
+    ¡Muere...! ¡Muere...! ¡Joo, joo, joo!
+
+[449] Jazu -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Este es... el método asesino de Jaga...
+    Joo, joo, joo...
+
+[450] Jazu -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Tú... ahora... te mato...
+    Joo, joo...
+
+[451] Jazu -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Sufre... y luego... muere...
+    Joo, joo, joo...
+
+[457] Shion -> any opponent   POLISHED
+    "Golpea su cabeza y llegará su cola".
+    ¡En mis ataques no hay huecos!
+    was: "PISA LA COLA DE UNA VIBORA Y MORIRAS". / NO HAY PUNTOS FLACOS EN MI!
+
+[460] Shion -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    "Conoce al enemigo y conócete a ti mismo".
+    Primero conoce tu fuerza... ¡y tu lugar!
+
+[461] Shion -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    "Un ejército es como el agua".
+    ¡A tu forma de pelear le falta flexibilidad!
+
+[462] Shion -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    ¿Qué hacer contigo...?
+    ¡Ya sé! Te haré pedazos así...
+
+[463] Shion -> any opponent   NEW (the missing half: a general quote that was a copy of another)
+    Es hora de acabar con esto.
+    Juro que vas a suplicar que te mate...
+
+[465] Shion -> Kyo   POLISHED
+    No le debo nada a Orochi,
+    ¡pero que tú vivas me estorba!
+    was: YO NO SIENTO NINGUNA LEALTAD POR EL OROCHI, / PERO TU VIDA OBSTACULIZA MI ESTILO! 
+
+[466] Shion -> K'   POLISHED
+    Conque liberar el potencial humano
+    de este modo... no, ni de chiste.
+    was: LAS POSIBILIDADES QUE OFRECE LA GENTE... / ES CASI... ALENTADOR!
+
+[469] Magaki -> Oswald   POLISHED
+    Vejestorio...
+    ¡Tu vida termina hoy, aquí y ahora!
+    was: VIEJO... TUS DIAS PARA ARRASTRARTE A TU CASA / HAN LLEGADO A SU FIN JUSTO AHORA!
+
+[475] Magaki -> Kim   POLISHED
+    Justicia aquí, justicia allá...
+    ¡Excusas de quien no se atreve a ser demonio!
+    was: JUSTICIA AQUI... JUSTICIA ALLA... / TU HABLAS COMO UNA ARPIA!
+
+[478] Magaki -> Yuri   POLISHED
+    ¿No distingues el progreso de la imitación?
+    Los humanos siempre me decepcionan.
+    was: NO SABES DISTINGUIR EL PROGRESO DE LA PURA IMI- / TACION? PERO REALMENTE SABES COMO DECEPCIONAR!
+
+[481] Magaki -> Gato   POLISHED
+    Te creías el protagonista, ¿verdad?
+    Ya te diste cuenta: eres solo un payaso.
+    was: CREISTE QUE TU ERAS EL HEROE? / AHORA LO SABES, NO? DOBLEGATE, PAYASO!
+
+[482] Magaki -> Griffon   POLISHED
+    ¿Qué pasó?
+    ¿No oyes el llanto de los niños? Ju, ju, ju...
+    was: CUAL ES EL PROBLEMA? / OISTE LLORAR A LOS CRIOS? JA JA JA!
+
+[484] Magaki -> Clark   POLISHED
+    Ju, ju. ¿Cómo va la investigación? Temo que
+    se acabó el tiempo. Gracias por tu esfuerzo.
+    was: JA JA! COMO VA LA INVESTIGACION? YA TODO / ACABARA. ME ESPERA UN LARGO DESCANSO.
+
+[485] Magaki -> Whip   POLISHED
+    Debiste conformarte con una vida común.
+    Ya es tarde para lamentarse, niña.
+    was: TU DEBIAS HABER LLEVADO UNA VIDA MAS TRANQUILA. / AHORA DEJASTE PASAR LA OPORTUNIDAD, QUERIDO!
+
+[486] Magaki -> Athena   POLISHED
+    Lo siento, pero esto no es un estudio.
+    No hay segunda toma, señorita ídolo.
+    was: EY, BABY, ESTO NO ES UNA FIESTA. / NADA VIENE DE ARRIBA, SIN ESFUERZO.
+
+[487] Magaki -> Kensou   POLISHED
+    Tienes un poder interesante, al parecer...
+    Veamos qué hago contigo...
+    was: PARECIO QUE TENIAS UN PODER MISTERIOSO. / QUE PASO CON TODO ESO?...
+
+[489] Magaki -> Vanessa   POLISHED
+    ¿Creíste que una agente al descubierto
+    podría sacarme algo? ¿Me crees idiota?
+    was: SI TU QUIERES SER UN AGENTE SECRETO / VISTETE UN POCO MAS DISCRETAMENTE, SI?
+
+[492] Magaki -> Malin   POLISHED
+    Tus saltos, cuando mucho,
+    confunden a los humanos.
+    was: SOLO LOS HUMANOS PUEDEN HIPNOTIZARSE / CON TUS SALTOS ATLETICOS POR SU ALREDEDOR.
+
+[497] Magaki -> Maxima   POLISHED
+    Creí que tú, al menos, habías superado
+    a los humanos... Qué decepción.
+    was: PIENSAS QUE HAS TRASCENDIDO TU HUMANIDAD? / PIENSA DE NUEVO, ABORTO CIBERNETICO!... 
+
+[500] Magaki -> Shingo   POLISHED
+    Vaya, vaya... ¿y este mocoso
+    qué tanto sacaba del bolsillo?
+    was: OH, QUE?... QUE ES LO QUE / ESTE PIBE SE TRAE ENTRE MANOS?
+
+[501] Magaki -> Gai   POLISHED
+    ¿Artes marciales mixtas?
+    O sea, de todo un poco y nada a fondo.
+    was: UN ESTILO DE COMBATE SINCRONIZADO? / AFICIONADO A TODO, EXPERTO EN NADA, NO?
+
+[506] ? -> any opponent   POLISHED
+    ¡Alcanzaste el límite de victorias seguidas!
+    Te esperamos para tu próximo desafío.
+    was: GRACIAS POR JUGAR!  JUEGO TERMINA POR LIMITACION / EN PARTIDOS CONSECUTIVOS GANADOS.
+
+[507] Mai -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Qué tal esta belleza nipona que pelea?
+    Esta fuerza resalta mi belleza♡
+
+[508] Mai -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Envuelta en llamas, mi danza va con gracia!
+    ¿Captas? No soy solo una cara bonita.
+
+[509] Mai -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Qué? ¿Ya te cansaste?
+    Duraste muy poquito.
+
+[510] Mai -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Eh? ¡Qué descarado!
+    ¡Por andar viendo ahí es que pierdes!
+
+[511] Mai -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Las llamas Shiranui danzan con elegancia.
+    ¿Las disfrutaste, espero?
+
+[512] Mai -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Ay...
+    Si Andy estuviera aquí, sería perfecto...
+
+[513] Mai -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Ayyy! ¡Ya basta!
+    ¡Si le pasa algo a esta cara, el mundo pierde!
+
+[514] Mai -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Andy, tonto! ¡Podrías hacerme caso un poco!
+    Ay... Debí venirme para acá desde el inicio...
+
+[515] Mai -> Terry   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Oye!
+    ¡Dime por qué tu hermano es tan terco!
+
+[516] Mai -> Eiji   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Jo, jo, jo! ¿Ya ves?
+    Se nota la diferencia de nivel.
+
+[517] Mai -> Malin, Momoko, Hotaru   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Todavía te falta... mucho♡
+
+[518] Mai -> Duck   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Vaya, tan alegre como siempre...
+
+[519] Robert -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Uy, qué ambiente tan aguado.
+    ¡Ya se ve que sin mí esto no arranca!
+
+[520] Robert -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Me salí de una junta importante para venir.
+    Échale un poquito más de ganas, ¿no?
+
+[521] Robert -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Si sufriera contra alguien de tu nivel,
+    el maestro me mataría...
+
+[522] Robert -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Uy, qué miedo!
+    Casi me entra ese último golpe, ¿eh?
+
+[523] Robert -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Ni una palabra a Karman de que estoy aquí, ¿eh?
+    Te lo encargo.
+
+[524] Robert -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Órale! ¡Aquí está "el tigre furioso"!
+
+[525] Robert -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡De mi lado siempre está el hombre invencible!
+    Con alguien de tu nivel, ni al caso.
+
+[526] Robert -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Nada como la tensión de una pelea de verdad.
+    ¡Con puros entrenamientos uno se oxida!
+
+[527] Robert -> Ryo   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Oye, oye, Ryo!
+    ¿Me voy un ratito nomás y ya te aflojas?
+
+[528] Robert -> Yuri   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Yuriii, amor! Perdón por dejarte solita.
+    El año que entra hacemos equipo, ¿va?
+
+[529] Robert -> Kensou   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Quiúbole, cuánto tiempo sin verte!
+    ¡Ya estás más fuerte, pero aún no me ganas!
+
+[530] Robert -> Momoko   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Qué pasó, pequeña?
+    ...¿Andas perdida?
+
+[531] Mr. Big -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Je, je, je...
+    Oye, qué bonita paliza te llevaste, ¿eh?
+
+[532] Mr. Big -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Qué aburrido...
+    ¡Jamás has pisado los mismos infiernos que yo!
+
+[533] Mr. Big -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Oye, oye, ya ríndete.
+    Con ese nivelito no puedes conmigo, ¿eh?
+
+[534] Mr. Big -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Algo sirves, por lo visto...
+    Pero así, cuando mucho, llegas a guarura.
+
+[535] Mr. Big -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Oye, qué pasó?
+    ¡Disfruta el show, que la vida es una tómbola!
+
+[536] Mr. Big -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿De veras creíste que podías ganarme?
+    ¡Ja! ¡Qué impertinencia!
+
+[537] Mr. Big -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Qué dices? Vente a trabajar para mí.
+    No te va a ir mal, te lo aseguro...
+
+[538] Mr. Big -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Así de grande es el abismo entre tú y yo!
+    Si captas, comienza ya a rogar.
+
+[539] Mr. Big -> Geese   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Oye, Geese. Se te ve muy ocupado por acá.
+    Te ayudaré a descansar... ¡para siempre!
+
+[540] Mr. Big -> King   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Te ablandaste por completo, por lo visto.
+    Vaya, vaya... qué aburrida te volviste.
+
+[541] Mr. Big -> Malin, Shingo, Momoko, Kasumi, Hotaru, Athena   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Bah! ¡Ni modo que yo fuera a perder
+    en un kínder como este!
+
+[542] Mr. Big -> Ryo, Robert, Yuri   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Ustedes ya no me sirven para nada!
+    ¡Lárguense!
+
+[543] Geese -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Basura...
+    ¡Ni siquiera hacía falta que saliera yo!
+
+[544] Geese -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Lo comprendes?
+    Este es el poder de un ser superior...
+
+[545] Geese -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Pensaste que Geese Howard perdería
+    ante un insecto como tú?
+
+[546] Geese -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Es un pecado no conocer tu límite.
+    ¡Aprende cuál es tu lugar!
+
+[547] Geese -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Tuviste la dicha de enfrentarte a mí.
+    ¡Al menos procura divertirme un poco!
+
+[548] Geese -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    La gente anhela tener poder absoluto.
+    ¡Ese es el poder de Geese Howard!
+
+[549] Geese -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Para ser un insecto, lo has hecho muy bien.
+    ¡Pero entiende que jamás llegarás a más!
+
+[550] Geese -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Aquel que desafía a Geese Howard lo recuerda
+    a través de su cuerpo. ¡Prepárate!
+
+[551] Geese -> Terry   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Qué ocurre...? No pongas esa cara.
+    ¡Te dije que soy inmortal, insecto!
+
+[552] Geese -> Ash   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Vaya. Ese poder tuyo... resulta interesante.
+
+[553] Geese -> Gato   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Vencido, y todavía esa mirada desafiante...
+    Realmente no conoces los límites de tu poder.
+
+[554] Geese -> Mary   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Otra vez husmeando a escondidas?
+    ¡Danza para mí, como vil títere que eres!
+
+[555] Hotaru -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Sí que da miedo...
+    ¡Pero hay que avanzar! ¿Verdad, Itokatsu?
+
+[556] Hotaru -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡No voy a perder!
+    ¡Yo también... tengo algo que proteger!
+
+[557] Hotaru -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Todo va a estar bien...
+    Seguro que lo voy a encontrar...
+
+[558] Hotaru -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Tienes una mirada muy bonita...
+    Debes ser muy noble. Me gustaría ser tu amiga...
+
+[559] Hotaru -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Ay, perdón! Me dejé llevar...
+    Eh... ¿se encuentra bien?
+
+[560] Hotaru -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Ay, Itokatsu... ¿te preocupas por mí?
+    Estoy bien. ¡No puedo rendirme en un lugar así!
+
+[561] Hotaru -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Ji, ji. Fue un buen combate, ¿verdad?
+    Me gustaría volver a enfrentarme con usted...
+
+[562] Hotaru -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Estoy luchando sin más dudas en mi corazón!
+    ¡Pelee conmigo en serio, por favor!
+
+[563] Hotaru -> Gato   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Hermano...
+    ¡Ah, espera! ¡Escúchame! Por favor...
+
+[564] Hotaru -> Jenet   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Señorita Jenet, por favor!
+    ¡Cuénteme lo que sepa de mi hermano!
+
+[565] Hotaru -> Malin, Momoko   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Ji, ji...
+    Las dos vamos a dar lo mejor, ¿verdad?
+
+[566] Hotaru -> Shion, Magaki   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Itokatsu está temblando...
+    Y pensar que vencí a alguien tan temible...
+
+[567] Hotaru -> Kasumi   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Perdón... yo tampoco puedo ceder.
+    Si me entero de algo de su papá, le aviso.
+
+[568] Tung -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Vaya, vaya. ¡Qué torneo tan animado!
+
+[569] Tung -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    No 'movía el bote' así desde hace rato.
+    ¡Este ardor en la sangre viene muy bien!
+
+[570] Tung -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Estaré viejo, pero aún puedo darle lucha
+    a cualquier retoño como tú.
+
+[571] Tung -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Perdiste por menospreciar a un viejo? Muy bien.
+    ¡Pelearé contigo hasta que quedes conforme!
+
+[572] Tung -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Este tecito después del combate sabe a gloria.
+    ...¿Mm? ¿Quieres un poco?
+
+[573] Tung -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Nada mal, nada mal...
+    Pero yo tengo un arma que tú no: la experiencia.
+
+[574] Tung -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Mmm... Con mis años puedo decir que
+    rivales como tú no se encuentran seguido.
+
+[575] Tung -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    No hacía falta que te contuvieras...
+    ¡Sería una pena que ese fuera todo tu poder!
+
+[576] Tung -> Terry   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Puede que ya seas más fuerte que Jeff, muchacho.
+    ¡Pero todavía flaqueas cuando más importa!
+
+[577] Tung -> Momoko   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Pequeña! Este no es lugar para ti.
+    Ten un dulcecito y vete a tu casa, ¿sí?
+
+[578] Tung -> Mai   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Ya eres toda una mujer hecha y derecha...
+    ¡Pero haz algo con ese atuendo, por favor!
+
+[579] Tung -> Gato   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Muchacho... Debes reflexionar un poco.
+    Ese camino solo te llevará al sufrimiento.
+
+[580] EX Kyo -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Sientes el peso de la historia?
+    Pues saborea bien mis llamas, ¿eh?
+
+[581] EX Kyo -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Todavía te quieres levantar? Mejor no.
+    La próxima no te dejo a medio cocer.
+
+[582] EX Kyo -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Ya viste de lo que soy capaz, ¿no?
+    ¡Ser fuerte no basta para dominar este fuego!
+
+[583] EX Kyo -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Te estás conteniendo?
+    ¡Es ridículo subestimarme!
+
+[584] EX Kyo -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Bueno, por ahí va la cosa.
+    Piensa en la revancha, a ver si mejoras tantito.
+
+[585] EX Kyo -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Vaya, no lo haces nada mal.
+    ¡La próxima seguro nos sale un mejor combate!
+
+[586] EX Kyo -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Eso estuvo bastante bien.
+    ¡Hacía tiempo que no ardía así!
+
+[587] EX Kyo -> any opponent   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Ay, ay, ay...
+    A alguien así le ganaba hasta sin llamas.
+
+[588] EX Kyo -> Iori   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Bah! ¿Cuántas palizas más para que te largues?
+    ¡Ya me tienes harto, Yagami!
+
+[589] EX Kyo -> Shingo   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Eso es todo? Si dices ser mi discípulo,
+    ¡a ver si muestras más agallas!
+
+[590] EX Kyo -> Benimaru   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Ya mejoraste, pero a mí todavía no me ganas.
+    ¡Supongo que vas para subcampeón permanente!
+
+[591] EX Kyo -> K'   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Vaya, ya tienes mejor cara que antes.
+    ¿Por fin ves las cosas por el lado bueno?
+
+[592] Gato -> Hotaru   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Vete de aquí.
+    ¡Este no es lugar para una niña como tú!
+
+[593] Jenet -> Hotaru   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Tranquiiila! ¡Lo de tu hermano
+    déjaselo a tu querida Jenet!
+
+[594] Terry -> Geese   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡No viviré en tus términos!
+    ¡Mi puño no es de venganza: es para proteger!
+
+[595] Terry -> Mai   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Mai... por favor, ¡ya no te desquites conmigo!
+
+[596] Eiji -> Mai   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿Esos trucos de feria, ninjutsu? Ridículo...
+    Ni a los talones le llegas al estilo Kisaragi.
+
+[597] Yuri -> Robert   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Ay, no! ¡Aún no te toca salir!
+    Al menos el plan va de maravilla, ¿eh?
+
+[598] Ryo -> Robert   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡¿Robert?!
+    ¿No que no podías participar?
+
+[599] Athena -> Tung   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Me acordé de mi maestro...
+    ¡Míreme, maestro! ¡Athena va a dar lo mejor!
+
+[600] Kensou -> Tung   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Vaya, los viejitos de hoy sí que tienen pila.
+    Con esto, mi maestro también va para largo...
+
+[601] Ryo -> Mr. Big   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Con esto te queda claro, ¿no?
+    ¡No quiero volver a verte cerca de nosotros!
+
+[602] Griffon -> Mr. Big, Geese   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Grandísimo rufián! ¡No puedo perder!
+    ¡Por los niños que aman la justicia y la paz!
+
+[603] Magaki -> Mai   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Curiosos trucos de magia... es un mal chiste
+    pensar que llegarías a vencerme con eso.
+
+[604] Magaki -> Robert   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¿"El tigre furioso"?
+    ¿Y a esa pizca de fuerza le llamas "furia"?
+
+[605] Magaki -> Mr. Big   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Ju, ju, ju... qué ridículo...
+    ¡Algo tan pequeño como tú, llamándose "Big"!
+
+[606] Magaki -> Geese   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Al humano ya lo "domina" un ser superior.
+    ¡Qué divertido, jugar al rey en un jardincito!
+
+[607] Magaki -> Hotaru   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Buscar a alguien hasta aquí... qué conmovedor.
+    Dejaré que continúes buscando. En el otro lado.
+
+[608] Magaki -> Tung   NEW (a PS2-exclusive character's line; the arcade script has none)
+    La última danza de un anciano, ¿eh?
+    Al parecer, terminó antes de florecer.
+
+[609] Magaki -> Magaki   NEW (a PS2-exclusive character's line; the arcade script has none)
+    Imitar como mono se te da bien...
+    ¡pero pagarás por un poder que no mereces!
+
+[610] Magaki -> Shion   NEW (a PS2-exclusive character's line; the arcade script has none)
+    ¡Maldito traidor!
+    Muérete aquí, en esta miserable época.

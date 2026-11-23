@@ -1,0 +1,1387 @@
+THE KING OF FIGHTERS XI INTERNATIONAL -- CUTSCENE SUBTITLES, SPANISH: the corrected lines
+
+SNK's Spanish subtitles are kept; only what was badly wrong is corrected: typos, calques, lines that
+contradict the Japanese, wrong names. A line is named by the file and record where it first appears;
+the same line in other files of a boss family is corrected alike.
+256 lines.
+
+[ABOSS00#4]  (15 files)
+    was: MAGAKI "Babosa viperina. La próxima vez
+    was:         no vas a tener tanta suerte."
+    now: MAGAKI "Malditos insectos, la próxima vez
+    now:         no tendrán tanta suerte."
+
+[ABOSS00#6]  (15 files)
+    was: MAGAKI "Continúa poniéndote nervioso, chulito!"
+    now: MAGAKI "Hablen lo que quieran..."
+
+[ABOSS00#8]  (15 files)
+    was: MAGAKI "... Cu-cú... Ah, ja ja ja!!
+    was:         Eso es! Así me gusta!"
+    now: MAGAKI "... Ju, ju... Ah, ja ja ja!!
+    now:         Eso es! Así me gusta!"
+
+[ABOSS00#13]  (1 file)
+    was: SHEN "Supongo que ahora lo entendió...
+    was:       Y después te llaman melodramático..."
+    now: SHEN "Y esto...
+    now:       Qué demonios está pasando aquí...?"
+
+[ABOSS00#17]  (15 files)
+    was: Y cerca de la medianoche al día siguiente...
+    now: Esa misma noche, cerca de la medianoche...
+
+[ABOSS05#18]  (1 file)
+    was: Durante la autopsia desaparece el cadáver de
+    was: Magaki. Alguien se lo llevó. Pero quién...?"
+    now: Alguien se llevó el cadáver de Magaki
+    now: mientras la policía local lo examinaba.
+
+[ABOSS00#19]  (15 files)
+    was: CONTINUARA EN EL PROXIMO Y EXCITANTE KOF
+    now: CONTINUARÁ EN EL PRÓXIMO KOF
+
+[ABOSS01#13]  (1 file)
+    was: BENIMARU "Divisiones en las tropas, eh? ...Pero!
+    was:           Esto ya está fuera de mi entender."
+    now: BENIMARU "Se pelearon entre ellos, eh?
+    now:           Esto ya está fuera de mi entender."
+
+[ABOSS02#3]  (1 file)
+    was: DUCK "Ey, tú! No me vengas con excusas.
+    was:       Convéncete conque eres un fracasado."
+    now: DUCK "HEY, YOU!
+    now:       No me vengas con excusas."
+
+[ABOSS03#3]  (1 file)
+    was: YURI "Qué zonzo!
+    was:       Y no hablemos de un pobre fracasado!"
+    now: YURI "Qué tonto!
+    now:       Sales con excusas por haber perdido!"
+
+[ABOSS03#13]  (1 file)
+    was: RYO  "Qué está pasando aquí? Por qué no me
+    was:       dan una pista de lo sucedido" NUNCA!?"
+    now: RYO  "Qué está pasando aquí? Por qué no me
+    now:       dan una pista de lo sucedido... NUNCA!?"
+
+[ABOSS05#3]  (1 file)
+    was: CLARK "Analizando tu derrota, eh? Antes de eso.
+    was:      quiero que me expliques todo con detalles."
+    now: CLARK "Analizando tu derrota, eh? Antes de eso,
+    now:      quiero que me expliques todo con detalles."
+
+[ABOSS07#5]  (1 file)
+    was: VANESSA "Si es por hablar,
+    was:          siempre salgo del paso."
+    now: VANESSA "Hablar es fácil.
+    now:          cualquiera dice lo que sea."
+
+[ABOSS07#13]  (1 file)
+    was: MARY "... Uaaa, increíble, no?
+    was:       Cómo escribo todo esto en mi reporte?"
+    now: MARY "... Vaya lío.
+    now:       Cómo escribo todo esto en mi reporte?"
+
+[ABOSS10#3]  (1 file)
+    was: KYO  "Qué lastima. Sabes lo que te hace falta?
+    was:       Por supuesto! Habilidad!"
+    now: KYO  "Qué lástima. Sabes lo que te hace falta?
+    now:       Por supuesto! Habilidad!"
+
+[ABOSS10#5]  (1 file)
+    was: IORI "Esta escoria es..."
+    now: IORI "Escoria..."
+
+[ABOSS10#13]  (1 file)
+    was: SHINGO "De qué se trata todo esto?
+    was:         Mr. Kusanagi, dame una pista, sí!?"
+    now: SHINGO "Pero qué está pasando aquí?
+    now:         Señor Kusanagi, qué está pasando!?"
+
+[ABOSS16#3]  (1 file)
+    was: ROSE "Oh, lo siento por tí, pero así es la cosa:
+    was:       nadie es tan fuerte como mi hermano mayor!"
+    now: ROSE "Oh, lo siento por ti, pero así es la cosa:
+    now:       nadie es tan fuerte como mi querido hermano!"
+
+[ABOSS16#13]  (1 file)
+    was: ADELHEID "Que ha terminado, eh...?  Y entonces,
+    was:           por favor dime qué es esto...?"
+    now: ADELHEID "Ya ha terminado todo.  Pero ahora,
+    now:           qué es todo esto...?"
+
+[BBOSS02#1]  (1 file)
+    was: TERRY "De veras han liado la situación.
+    was:        Qué están maquinando? Desembuchen!"
+    now: TERRY "Sí que hicieron un desastre.
+    now:        Qué están tramando? Hablen!"
+
+[BBOSS12#1]  (2 files)
+    was:  "Qué es todo ese descaro de macho?
+    was:   Aquí me debes una explicación."
+    now:  "Qué significa esto?
+    now:   Tendrás que explicármelo."
+
+[END00#9]  (1 file)
+    was: OSWALD "Eso no te concierne a tí."
+    now: OSWALD "Eso no te concierne a ti."
+
+[END00#12]  (1 file)
+    was: ASH "Tú puedes compartirlas con todos aquellos
+    was:      que 'detestan' al derrotado Shen Woo."
+    now: ASH "Dicen que se las darán a quien derrote
+    now:      al 'querido' Shen Woo."
+
+[END00#15]  (1 file)
+    was: OSWALD "Pon mi paga en la cuenta que te dí."
+    now: OSWALD "Pon mi paga en la cuenta que te di."
+
+[END01#2]  (1 file)
+    was: ASH "Agh, esa voz...
+    was:      Ay! estoy listo!"
+    now: ASH "Agh, esa voz...
+    now:      Ay! La que me toca!"
+
+[END01#18]  (1 file)
+    was: ASH "Entendiste? Será mejor que retrocedas
+    was:      a la vista de un gigante, OK?"
+    now: ASH "Captas? Estaría muy padre
+    now:      si te retiras por las buenas, OK?"
+
+[END01#20]  (1 file)
+    was: ASH "Ey, Benimaru. No te preocupes!
+    was:      Esos dos ya estaban aquí antes que yo."
+    now: ASH "Relájate un poco, Beni!
+    now:      Esos dos ya estaban así cuando llegué."
+
+[END01#25]  (1 file)
+    was: ELISABETH "Y qué..."
+    now: ELISABETH "Qué..."
+
+[END01#27]  (1 file)
+    was: ASH "El será mi próximo objetivo, dile.
+    was:      Ah, ja ja ja ja... ja ja ja♪"
+    now: ASH "Dile que la próxima le toca a él.
+    now:      Ah, ja ja ja ja... ja ja ja♪"
+
+[END02#0]  (1 file)
+    was: TERRY "... Es tan tarde y estos tíos..."
+    now: TERRY "... Ya se tardaron..."
+
+[END02#1]  (1 file)
+    was: KIM "Qué importa!? Ze trata de miz bromaz:
+    was:      de miz idealez y miz ideaz."
+    now: KIM "Qué importa!? Ze trata de miz enzeñanzaz:
+    now:      de miz idealez y miz ideaz."
+
+[END02#11]  (1 file)
+    was: DUCK "Quiero oir el resto. Continúa, por favor."
+    now: DUCK "Quiero oír el resto. Continúa, please."
+
+[END02#15]  (1 file)
+    was: KIM "Y cuándo tienez programado
+    was:      ponerte en línea, Terry!?"
+    now: KIM "Y cuándo pienzaz
+    now:      zentar cabeza, Terry!?"
+
+[END02#18]  (1 file)
+    was: JOE "Hacía añares que no estábamos juntos...
+    was:      Ey, no nos olvidamos de alguien?"
+    now: JOE "Hacía siglos que no estábamos juntos...
+    now:      Ey, no nos olvidamos de alguien?"
+
+[END02#19]  (1 file)
+    was: CHOI "Yo creo que no, querido."
+    now: CHOI "N-no, para nada..."
+
+[END03#1]  (1 file)
+    was: KING "... No puedo creerlo, esta Yuri.
+    was:       Me hizo pasar por tantos problemas..."
+    now: KING "... Espero que Yuri
+    now:       no esté intentando algo aquí..."
+
+[END03#7]  (1 file)
+    was: WAITRESS "Está bien. No te apures, soso!
+    was:           ... Digo, señor... tómese su tiempo."
+    now: WAITRESS "No hay prisa, herma...
+    now:           ... Digo, señor... tómese su tiempo."
+
+[END03#9]  (1 file)
+    was: WAITRESS "Eh, lo siento, señor. Yo... esteee...
+    was:          no tengo ni idea de qué está hablando."
+    now: WAITRESS "Eh, lo siento, s-señorita?
+    now:          no tengo idea de qué está hablando."
+
+[END03#16]  (1 file)
+    was: WAITRESS "No, no los conocemos a ustedes, sosos!"
+    now: WAITRESS "Como sea, no los conocemos a ustedes!"
+
+[END03#24]  (1 file)
+    was: RYO "Me gustaría llamarte otra cosa, chico!"
+    now: RYO "Todo te delata!"
+
+[END03#26]  (1 file)
+    was: RYO "Y la sigue con el tema del 'local'... eh?"
+    now: RYO "Y sigue con lo del 'servicio'... eh?"
+
+[END03#32]  (1 file)
+    was: WAITRESS "Tiene la vista del millón de dólares,
+    was:         soso♪"
+    now: WAITRESS "Tiene una vista de un millón de dólares,
+    now:         señor♪"
+
+[END04#0]  (1 file)
+    was: JENET "Bueno, Tizzy, salud por tu buen trabajo.
+    was:        Haz cumplido como me lo esperaba♪"
+    now: JENET "Tizoquito, salud por tu buen trabajo.
+    now:        Has cumplido como me lo esperaba♪"
+
+[END04#3]  (1 file)
+    was: TIZOC "Hum. Ese tipo va a tener que aprender
+    was:        a tomar las cosas más sensiblemente."
+    now: TIZOC "Hum. Ese muchacho debería abrirse
+    now:        un poco más a los demás."
+
+[END04#10]  (1 file)
+    was: HOTARU "Repugnante."
+    now: HOTARU "Ayyy!"
+
+[END04#9]  (1 file)
+    was: LILIEN KNIGHTS "Capitán!  Felicitaciones por
+    was:                 su victoria!!"
+    now: LILIEN KNIGHTS "Capitana!  Felicitaciones por
+    now:                 su victoria!!"
+
+[END04#19]  (1 file)
+    was:  "Capitán, qué ejecución!"
+    was:  "Ese es nuestro líder!"
+    now:  "Lo logró, capitana!"
+    now:  "Esa es nuestra líder!"
+
+[END04#18]  (1 file)
+    was: TIZOC "Ja, ja, ja, salute!"
+    now: TIZOC "Ja, ja, ja, salud!"
+
+[END05#9]  (1 file)
+    was: CLARK "Señor!"
+    was: WHIP "Líder!"
+    now: CLARK "Señor!"
+    now: WHIP "Comandante!"
+
+[END07#20]  (1 file)
+    was: CONTROLLER "... Líder,
+    was:             puedo hacerle una pregunta?"
+    now: CONTROLLER "... Comandante,
+    now:             puedo hacerle una pregunta?"
+
+[END06#3]  (1 file)
+    was: KENSOU "Esta vez fue doblemente difícil.
+    was:         Un encuentro tremendo y vil!"
+    now: KENSOU "Esta vez fue doblemente difícil.
+    now:         Qué peleas tan tremendas!"
+
+[END06#8]  (1 file)
+    was: MOMOKO "Pero, pero, ese tipo en el cielo...
+    was:         Se lo vé muy desarrapado, no?"
+    now: MOMOKO "Pero, pero, el abuelito del cielo...
+    now:         Se ve muy desarreglado, no?"
+
+[END06#18]  (1 file)
+    was: ATHENA "El fue el Striker de nuestro equipo."
+    now: ATHENA "Él fue Striker para nuestro equipo."
+
+[END06#28]  (1 file)
+    was: RON "Je, je, je... Bien hecho, pibe."
+    now: RON "Je, je, je... Bien hecho, chico."
+
+[END07#6]  (1 file)
+    was: RAMON "Fabuloso, Vanessa.
+    was:        Tienes un poder de deduccion increíble."
+    now: RAMON "Fabuloso, Vanessa.
+    now:        Tienes un poder de deducción increíble."
+
+[END07#11]  (1 file)
+    was: RAMON "Carambia, Vanessa.
+    was:        Un poco más de Sherlock Holmes?"
+    now: RAMON "Caramba, Vanessa.
+    now:        ¡No hay fallas en tu lógica!"
+
+[END07#22]  (1 file)
+    was: CONTOLLER "Yo sé que son nuestros agentes,
+    was:            pero por qué trajeron civiles aquí?"
+    now: CONTROLLER "Yo sé que son nuestros agentes,
+    now:            pero por qué trajeron civiles aquí?"
+
+[END07#25]  (1 file)
+    was: HEIDERN "Se necesita tener el cebo adecuado
+    was:          para capturar el gran juego."
+    now: HEIDERN "Se necesita un buen señuelo
+    now:          para cazar una gran presa."
+
+[END08#0]  (1 file)
+    was: EIJI "Qué raro... No importa cuanto esperamos,
+    was:       sólo King y Ryo Sakazaki han llegado?"
+    now: EIJI "Qué raro... Llevamos rato aquí y
+    now:       solo King y Ryo Sakazaki han llegado?"
+
+[END08#6]  (1 file)
+    was: MALIN "De veras odio a ese tipo!
+    was:        Siempre con algún tema 'soso.'"
+    now: MALIN "En serio que odio a esa tipa!
+    now:        Siempre habla como tonta!"
+
+[END08#10]  (1 file)
+    was: MALIN "Y ella no es más que una canija, eh?"
+    now: MALIN "Y además es una debilucha, eh?"
+
+[END08#22]  (1 file)
+    was: EIJI "Qué pasó? Ví pasar una mesa volando..."
+    now: EIJI "Qué pasó? Vi pasar una mesa volando..."
+
+[END08#23]  (1 file)
+    was: MALIN "King se convirtió en balístico..."
+    now: MALIN "King se volvió loca..."
+
+[END09#1]  (1 file)
+    was: MAXIMA "... Qué se dice por aquí, Kula?"
+    now: MAXIMA "... Estás de buen humor, Kula."
+
+[END09#2]  (1 file)
+    was: K' "... Hola."
+    now: K' "... Oye."
+
+[END09#7]  (1 file)
+    was: MAXIMA "Atlántico Norte, cerca de la costa de
+    was:       España. en la más bonita puesta del sol."
+    now: MAXIMA "Atlántico Norte, cerca de la costa de
+    now:       España. 16:54, el mejor atardecer."
+
+[END09#13]  (1 file)
+    was: KULA "Oh, es una Sara!"
+    now: KULA "Ah, es Seirah!"
+
+[END09#14]  (1 file)
+    was: KULA "Hola, Sara!"
+    now: KULA "Seiraaah!"
+
+[END09#16]  (1 file)
+    was: WHIP “Jee, jee... se la ve muy bien!”
+    now: WHIP (Je, je... se ve muy contenta.)
+
+[END09#19]  (1 file)
+    was: MAXIMA "...Hum, esto es tan emocionante."
+    now: MAXIMA "...Ay, qué aburrido."
+
+[END09#25]  (1 file)
+    was: KULA "Repugnante!"
+    now: KULA "Ay!"
+
+[END10#3]  (1 file)
+    was: SHINGO "Agh... Mr. Ku-Kusanagi...
+    was:         Lo van a matar..."
+    now: SHINGO "Agh... Señor Ku-Kusanagi...
+    now:         Lo van a matar..."
+
+[MBOSS10#0]  (1 file)
+    was: SHINGO "Q-qué diablos ha ocurrido aquí?
+    was:         Qué pasó Mr. Kusanagi!? Mr. Yagami!?"
+    now: SHINGO "Q-qué diablos ha ocurrido aquí?
+    now:         Señor Kusanagi!? Señor Yagami!?"
+
+[END10#4]  (1 file)
+    was: ASH "Epa, epa, qué está pasando aquí?
+    was:      Y sin algo de protección siquiera!?"
+    now: ASH "Vaya, vaya, qué hacen por aquí?
+    now:      Bajo la lluvia, y sin paraguas!?"
+
+[END10#7]  (1 file)
+    was: SHINGO "Te-ten cuidado...
+    was:         El n-no es el mismo de siempre."
+    now: SHINGO "Te-ten cuidado...
+    now:         A-algo raro le pasa."
+
+[END10#12]  (1 file)
+    was: IORI "Gi gi gi gi gi gi gi rechina..."
+    now: IORI "Gi gi gi gi gi gi gi..."
+
+[END16#15]  (1 file)
+    was: ? "Hum. Ella tiene un potencial interesante...
+    was:    Y además, es tan fácil de manipulear."
+    now: ? "Hum. Ella tiene un potencial interesante...
+    now:    Y además, es tan fácil de manipular."
+
+[MBOSS01#2]  (1 file)
+    was: DUO LON "Y el culpable no puede ser otro que...
+    was:          tú, hermosura."
+    now: DUO LON "Y el culpable no puede ser otro que...
+    now:          tú."
+
+[MBOSS02#0]  (1 file)
+    was: DUCK "Oia! Qué pasó aquí!? Va a ser difícil
+    was:       crear mi leyenda en este tugurio!"
+    now: DUCK "WOW! Qué pasó aquí!? Esto ya
+    now:       no es escenario para mi ritmo"
+
+[MBOSS05#2]  (1 file)
+    was: CLARK "Parece que alguien nos ganó de mano.
+    was:        Es una estafa!"
+    now: CLARK "Parece que alguien se nos adelantó.
+    now:        Qué fastidio!"
+
+[MBOSS01#0]  (1 file)
+    was: ELISABETH "Qué pasó aquí... El anfiteatro
+    was:            del torneo fue destruído..."
+    now: ELISABETH "Qué pasó aquí... El anfiteatro
+    now:            del torneo fue destruido..."
+
+[MBOSS06#2]  (1 file)
+    was: ATHENA "Qué horror...!
+    was:         Quien ha destruído todo...eres tú, no!?"
+    now: ATHENA "Qué horror...!
+    now:         Quien ha destruido todo...eres tú, no!?"
+
+[MBOSS16#0]  (1 file)
+    was: ROSE "Qué significa esto?
+    was:       Por qué está destruído el anfiteatro...?"
+    now: ROSE "Qué significa esto?
+    now:       Por qué está destruido el anfiteatro...?"
+
+[MBOSS12#2]  (1 file)
+    was:  "Qué barbaridad han cometido...
+    was:  Y para qué? Oh, esta humanidad!"
+    now:  "Qué barbaridad han cometido...
+    now:  Y todo esto, para qué?"
+
+[MIDDLE#2]  (1 file)
+    was: SHION "Vamos a despertara la gran sierpe 
+    was:      durmiente. No te vas a quejar por eso, no?"
+    now: SHION "Despertaremos a la gran serpiente
+    now:      durmiente. No te vas a quejar por eso, no?"
+
+[END00#1]  (1 file)
+    was: OSWALD "Y tú tampoco estás mal, m'hijito.
+    was:         Te falta fineza, pero eres bueno..."
+    now: OSWALD "Y tú tampoco estás mal.
+    now:         Te falta fineza, pero eres bueno..."
+
+[END00#6]  (1 file)
+    was: ASH "Sí, sí. Ya te oí. Veamos... Shen es 
+    was:      'un adversario más que respetable.'"
+    now: ASH "Sí, sí. Ya te oí. A ver... para Shen
+    now:      'un adversario más que respetable.'"
+
+[END00#11]  (1 file)
+    was: ASH "Son las 'Pastillas Dragón' de Shanghai.
+    was:  El farmacéutico quería tenerlas en secreto."
+    now: ASH "Son las 'Pastillas Dragón' de Shanghai.
+    now: Ciertas personas querían tenerlas en secreto."
+
+[END00#13]  (1 file)
+    was: OSWALD "Ah, ya veo...
+    was:    Conque ese es el trasfondo de esta historia?"
+    now: OSWALD "Ah, ya veo...
+    now:    Así que este era tu plan."
+
+[END00#14]  (1 file)
+    was: SHEN "Parece que ya hice demasiados enemigos.
+    was:       Y tú matas dos pájaros de un tiro, Ash."
+    now: SHEN "Parece que ya hice demasiados enemigos.
+    now:       Y aquí sólo Ash viene ganando doble."
+
+[END00#18]  (1 file)
+    was: OSWALD "Y eso fue todo.
+    was:         Espero que no pienses mal de mí."
+    now: OSWALD "Sin más remedio,
+    now:         espero que no pienses mal de mí."
+
+[END00#19]  (1 file)
+    was: SHEN "En tanto que tú me hagas feliz. Puedo
+    was:       esperar que hagas el esfuerzo, viejo?"
+    now: SHEN "Mientras me des buena lucha, me importa
+    now:       poco. No me vayas a decepcionar, viejo!"
+
+[END00#20]  (1 file)
+    was: OSWALD "Sí, por supuesto que puedes.
+    was:         Te voy a mostrar todo lo que tengo..."
+    now: OSWALD "De acuerdo.
+    now:         Déjame enseñarte..."
+
+[END00#21]  (1 file)
+    was: OSWALD "La quintaesencia de Karnoffel."
+    now: OSWALD "La verdadera esencia del Karnoffel!"
+
+[END01#6]  (1 file)
+    was: BENIMARU "Desmayados... Ey! Bromeas, no!?"
+    now: BENIMARU "Desmayados, pero quie-...? Eh! No puede ser!"
+
+[END01#14]  (1 file)
+    was: ASH "Caray! me das miedo como siempre.
+    was:      Pero así no se arreglan las cosas."
+    now: ASH "Caray! me das miedo como siempre.
+    now:      Pero esta vez no te servirá!"
+
+[END01#17]  (1 file)
+    was: ELISABETH "Ese color!... Iori Yagami!?
+    was:            No, no puede ser, no?... El Orochi!?"
+    now: ELISABETH "Ese color... es de Yagami!?
+    now:            No, no puede ser... Orochi!?"
+
+[END01#22]  (1 file)
+    was: ELISABETH "Resígnate, Ash!"
+    now: ELISABETH "Ríndete, Ash!"
+
+[END01#23]  (1 file)
+    was: ASH "Tres contra uno? Pero es que ahora yo..."
+    now: ASH "Tres contra uno? Pero miren..."
+
+[END01#24]  (1 file)
+    was: ASH "Yo logré este poder impresionante, ves?♪"
+    now: ASH "Qué tal si pudiera hacer esto?♪"
+
+[END01#26]  (1 file)
+    was: ASH "Dícelo a Kusanagi cuando se despierte."
+    now: ASH "Pásale a Kusanagi un recado cuando despierte."
+
+[END01#30]  (1 file)
+    was: ELISABETH "Con respecto a tus planes,
+    was:            Yo les pondré punto final, ya verás."
+    now: ELISABETH "Ya verás que le pondré punto final
+    now:            a lo que estés tramando."
+
+[END01#31]  (1 file)
+    was: ELISABETH "Por el honor de
+    was:            la Casa Branctorche!!"
+    now: ELISABETH "Por el honor de
+    now:            la Casa Blanctorche!!"
+
+[END02#16]  (1 file)
+    was: TERRY "Eh? Qué estás diciendo?
+    was:        Por qué dices eso?"
+    now: TERRY "Eh? Y ahora qué?
+    now:        Por qué de repente salió eso?"
+
+[END02#17]  (1 file)
+    was: KIM "La dedicazión haze pozible a la juztizia.
+    was:      Yo tengo ezpoza y doz hijoz."
+    now: KIM "La juztizia también ze hereda Terry!
+    now:      Yo tengo ezpoza y doz hijoz."
+
+[END02#27]  (1 file)
+    was: RICHARD "Mira, te lo dije, Kim.
+    was:          El cartel dice que es hora de cerrar."
+    now: RICHARD "Por Dios, Kim.
+    now:          El cartel dice que ya es hora de cerrar."
+
+[END03#5]  (1 file)
+    was: WAITRESS "Bien, ya decidieron qué desean?"
+    now: WAITRESS "Les puedo tomar su orden?"
+
+[END03#11]  (1 file)
+    was: RYO "Oh, justo a tiempo. Tienes un impostor aquí.
+    was:   Pon esta 'mesera' de patitas en la calle, eh?"
+    now: RYO "Oh, justo a tiempo. Tienes una impostora aquí.
+    now:   Pon esta 'mesera' de patitas en la calle, eh?"
+
+[END03#12]  (1 file)
+    was: WAITER "Dice que un impostor...?  No entiendo
+    was:         palabra de lo que usted dice."
+    now: WAITER "Impostora...?  No entiendo
+    now:         lo que quiere decir."
+
+[END03#14]  (1 file)
+    was: WAITER "Ro-Robert? Quién es ese Robert? Señor,
+    was:   yo... ah, yo creo que usted está equivocado."
+    now: WAITER "Ro-Robert? Quién es ese Robert? Señor,
+    now:   yo creo que usted está mal, eh... equivocado."
+
+[END03#15]  (1 file)
+    was: RYO "... Ustedes dos tienen el cerebro rancio."
+    now: RYO "... Ustedes dos tienen la cabeza hueca."
+
+[END03#17]  (1 file)
+    was: KING "Yo ya me voy, Ryo.
+    was:       No puedo comer en un local así."
+    now: KING "Yo ya me voy, Ryo.
+    now:       No puedo comer en un lugar así."
+
+[END03#20]  (1 file)
+    was: RYO "Oh, no es nada. Bueno, en realidad...
+    was:      ... Eso."
+    now: RYO "Oh, no es nada. Bueno, en realidad...
+    now:      ... eh."
+
+[END03#21]  (1 file)
+    was: MANAGER "En qué puedo servirlo?
+    was:          Está desconforme con nuestro servicio?"
+    now: MANAGER "En qué puedo servirle?
+    now:          Está desconforme con nuestro servicio?"
+
+[END03#22]  (1 file)
+    was: RYO "Oh, por favor, viejo...
+    was:      Con tretas como estas a tu edad?"
+    now: RYO "Oh, por favor, viejo...
+    now:      Chistes así a tu edad?"
+
+[END03#25]  (1 file)
+    was: MANAGER "Señor, parece que no le agrada el
+    was:          servicio de nuestro pequeño 'local.'"
+    now: MANAGER "Señor, parece que no le agrada el
+    now:          servicio de nuestro restaurante."
+
+[END03#29]  (1 file)
+    was: WAITER "Les hemos preparado una suite en el 
+    was:       penthouse de nuestro hotel, gran paisaje!"
+    now: WAITER "Les hemos preparado una suite en el
+    now:       penthouse de este hotel, con hermosa vista!"
+
+[END03#34]  (1 file)
+    was: KING "S-..."
+    now: KING "Sí..."
+
+[END03#35]  (1 file)
+    was: MANAGER "S-...?"
+    now: MANAGER "Sí...?!"
+
+[END03#36]  (2 files)
+    was: KING "Son unos idiotas!!!"
+    now: KING "Sí que son unos malditos idiotas!!!"
+
+[END04#2]  (1 file)
+    was: JENET "Le pedí a Gato que viniera también y
+    was:        como siempre, me respondió 'tonterías!'"
+    now: JENET "Le pedí a Gato que viniera también y
+    now:        como siempre, dijo 'qué tontería!'"
+
+[END04#6]  (1 file)
+    was: JENET "Ah, lo que sea. Total que todos
+    was:        ya vendrán en cualquier momento."
+    now: JENET "Como sea. Total que los demás
+    now:        vendrán ya en cualquier momento."
+
+[END04#7]  (1 file)
+    was: TIZOC "Qué? No son esos?"
+    now: TIZOC "Te refieres a ellos?"
+
+[END04#8]  (1 file)
+    was: HOTARU "Aaah... Mi hermano mayor..."
+    now: HOTARU "Hola? Disculpen, mi hermano mayor..."
+
+[END04#13]  (1 file)
+    was: HOTARU "E-estee..."
+    now: HOTARU "D-disculpen..."
+
+[END04#15]  (1 file)
+    was: HOTARU "Por favor, escúchenme!
+    was:         Alguien ha visto a mi hermano Gato?"
+    now: HOTARU "Disculpen!
+    now:         Estoy buscando a mi hermano!"
+
+[END04#20]  (1 file)
+    was: HOTARU "Hermano mío, dónde estás!?"
+    now: HOTARU "Hermanooo? Estás aquiiií!?"
+
+[END04#21]  (1 file)
+    was: GATO "Hum... Ridículo!"
+    now: GATO "Hun... Qué tontería!"
+
+[END05#0]  (1 file)
+    was: HEIDERN "En suma, Mukai, que interfirió en el
+    was:      último KOF, era del mismo clan que Magaki."
+    now: HEIDERN "En suma, se cree que Mukai, quien irrumpió
+    now:      en el último KOF, es de la especie de Magaki,"
+
+[END05#1]  (1 file)
+    was: HEIDERN "No sólo eso, es muy posible que ese
+    was:   'clan' sea diferente a nosotros los humanos."
+    now: HEIDERN "y además, es muy posible que esa
+    now:   'especie' sea diferente a nosotros los humanos."
+
+[END05#2]  (1 file)
+    was: HEIDERN "La muestra que obtuvimos previamente...
+    was:          y el análisis del cadáver de Magaki..."
+    now: HEIDERN "Al analizar la muestra que recuperamos...
+    now:          el cadáver de Magaki,"
+
+[END05#3]  (1 file)
+    was: HEIDERN "... claramente revelarán los detalles.
+    was:          Cuando eso suceda, cuento con ustedes."
+    now: HEIDERN "podremos aclarar los detalles.
+    now:          Para ello, lo que espero de ustedes es..."
+
+[END05#11]  (1 file)
+    was: HEIDERN "No hagan ruido!"
+    now: HEIDERN "Calma!"
+
+[END05#13]  (1 file)
+    was: ? "Este lugar es como el queso suizo."
+    now: ? "En este sitio hay entradas por doquier."
+
+[END05#15]  (1 file)
+    was: ? "Yo no tengo obligación o deuda con Magaki.
+    was:    Pero quiero que me entreguen su cadáver."
+    now: ? "Yo no tengo obligación ni deuda con Magaki.
+    now:    Pero me llevaré su cadáver."
+
+[END05#16]  (1 file)
+    was: ? "Ya hundí tu nave escolta.
+    was:    ... Es sólo mi forma de decir Hola!"
+    now: ? "Hundí tu nave escolta.
+    now:    ... Tómalo como un saludo amistoso."
+
+[END05#21]  (1 file)
+    was: CLARK "Perder tu escolta fue trágico...
+    was:      Pero en general todo salió como planeamos."
+    now: CLARK "Perder el buque escolta es un golpe...
+    now:      Pero salió como lo planeamos, señor."
+
+[END06#9]  (1 file)
+    was: ATHENA "No me culpes a mí. Eso lo hizo Kensou."
+    now: ATHENA "Así es como Kensou se lo imagina."
+
+[END06#15]  (1 file)
+    was: KENSOU "Paitan! En memoria de tu larga vida,
+    was:        hice lo posible por hacerte quedar bien."
+    now: KENSOU "Baitang! En memoria de tu larga vida,
+    now:        hice lo posible por hacerte quedar bien."
+
+[END06#16]  (1 file)
+    was: ATHENA "Paitan también está vivito y coleando."
+    now: ATHENA "Baitang también está vivito y coleando."
+
+[END06#30]  (1 file)
+    was: RON "Ahora entrena más fuerte porque la 
+    was:      próxima vez será contra mí. Ja, ja, ja!"
+    now: RON "De ahora en adelante, entrena duro...
+    now:      ...para mí. Je, je, je..."
+
+[END07#5]  (1 file)
+    was: VANESSA "De todos modos, eso debe ser 
+    was:          algún tipo de instalación militar, no?"
+    now: VANESSA "De todos modos, lo único seguro
+    now:          es que el ejército está metido en esto."
+
+[END07#12]  (1 file)
+    was: SETH "Hay una escuadra de helicópteros como los
+    was:       nuestros volando en la misma dirección."
+    now: SETH "Hay un escuadrón de helicópteros como los
+    now:       nuestros volando en la misma dirección."
+
+[END07#17]  (1 file)
+    was: MARY "Era lógico... Estoy asombrada."
+    now: MARY "Esto sí... no me lo esperaba."
+
+[END07#24]  (1 file)
+    was: HEIDERN "Necesitamos el testimonio y la muestra
+    was:       de los que derrotaron a Magaki y a Shion."
+    now: HEIDERN "Necesitamos el testimonio de quienes
+    now:       vencieron a Magaki y a Shion, y la muestra."
+
+[END07#26]  (1 file)
+    was: HEIDERN "... El cebo más apetitoso,
+    was:          por supuesto."
+    now: HEIDERN "... Un señuelo irresistible,
+    now:          por supuesto."
+
+[END08#1]  (1 file)
+    was: EIJI "Lady Malin!
+    was:       Has mantenido un ojo avisor, eh?"
+    now: EIJI "Señorita Malin,
+    now:       investigó bien?"
+
+[END08#9]  (1 file)
+    was: MALIN "Esa Yuri tuvo el tupé de decir que
+    was:        mi forma de combatir es tramposa, no?"
+    now: MALIN "Esa Yuri tuvo el descaro de decir que
+    now:        mi forma de combatir es tramposa, no?"
+
+[END08#11]  (1 file)
+    was: EIJI "Todo lo que falta es el Líder de Kyokugen.
+    was:       Sólo esperando a Takuma Sakazaki..."
+    now: EIJI "Sólo falta el Maestro del Kyokugen,
+    now:       Takuma Sakazaki..."
+
+[END08#13]  (1 file)
+    was: KASUMI "Papá... dónde estás...?"
+    now: KASUMI "Padre... dónde estás...?"
+
+[END08#14]  (1 file)
+    was: EIJI "Papá... Papá... Lady Kasumi!
+    was:      Por favor, le ruego que guarde silencio!?"
+    now: EIJI "Padre esto, padre aquello, Señorita
+    now:      Kasumi! Por favor, guarde silencio!"
+
+[END08#19]  (1 file)
+    was: "Payasos del Kyokugen! Lo que les espera!"
+    now: "Kyokugen! Prepárense!"
+
+[END08#24]  (1 file)
+    was: KASUMI "P-papá..."
+    now: KASUMI "P-padre..."
+
+[END09#0]  (1 file)
+    was: KULA "Ah, ja ja ja!
+    was:       Vaya, hay tanta gente aquí!"
+    now: KULA "Oh, wow! Ja ja ja!
+    now:       Mira cuánta gente hay aquí!"
+
+[END09#4]  (1 file)
+    was: K' "Me llamaron para que viniera a este lugar...
+    was:     Qué es lo que se está fraguando aquí?"
+    now: K' "Qué estarán tramando aquí que hasta
+    now:     nos han mandado a traer?"
+
+[END09#6]  (1 file)
+    was: K' "De todos modos, dónde estamos? Qué hay aquí?"
+    now: K' "Para empezar, dónde estamos? Qué es esto?"
+
+[END09#10]  (1 file)
+    was: K' "OK, OK... Sabihondo!"
+    now: K' "... Tsk."
+
+[END09#11]  (1 file)
+    was: MAXIMA "Epa, parece que ya va a comenzar."
+    now: MAXIMA "Vaya, parece que va a comenzar."
+
+[END09#18]  (1 file)
+    was: HEIDERN "El hombre conocido como líder del
+    was:          enemigo, los restos de Magaki."
+    now: HEIDERN "El cadáver de Magaki,
+    now:          uno de los jefes del enemigo."
+
+[END09#20]  (1 file)
+    was: K' "Gran festival de bostezos."
+    now: K' "Ni que lo digas."
+
+[END09#24]  (1 file)
+    was: MAXIMA "Qué pasa, Kula?... Ah!? Oh, no!
+    was:         La nave escolta está por explotar!"
+    now: MAXIMA "Qué pasa, Kula?... Ah!? Oh, no!
+    now:         Detecto calor en el buque de estribor!"
+
+[END09#26]  (1 file)
+    was: K' "... Oh, tremendo!
+    was:     Viene una tras otra..."
+    now: K' "... Tsk.
+    now:     Una cosa tras otra..."
+
+[END10#2]  (1 file)
+    was: SHINGO "Condenados, recórcholis, mi cuerpo...
+    was:         Debo salvar..."
+    now: SHINGO "Maldita sea... mi cuerpo...
+    now:         Debo ayudar..."
+
+[END10#5]  (1 file)
+    was: SHINGO "Ah, Ash...
+    was:         Yagami se volvió loco repentinamente..."
+    now: SHINGO "Ah, Ash...
+    now:         el señor Yagami perdió la razón de pronto..."
+
+[END10#6]  (1 file)
+    was: ASH "Ay, ay, ay!
+    was:      Te has metido en aprietos, no?"
+    now: ASH "Ay, ay, ay!
+    now:      Estás todo lleno de lodo."
+
+[END10#9]  (1 file)
+    was: ASH “Conque se ve así... Ahora comprendo.”
+    now: ASH “Esos ojos... Ya veo.”
+
+[END10#10]  (1 file)
+    was: ASH “Si él ha llegado hasta aquí,
+    was:      sólo quiere decir que...”
+    now: ASH “Si las cosas se han puesto así,
+    now:      quiere decir que...”
+
+[END10#11]  (1 file)
+    was: ASH "Je, je. Es una presión tremenda, no?♪"
+    now: ASH "Vaya, qué presión tan tremenda♪"
+
+[END10#13]  (1 file)
+    was: ASH "Joo joo joo. Tienes suerte, Yabuki.
+    was:      Vete a casa antes de que te resfríes."
+    now: ASH "Ji ji ji. Tienes suerte, Yabuki.
+    now:      Vete a casa antes de que te resfríes."
+
+[END16#0]  (1 file)
+    was: ROSE "Una victoria asombrosa en KOF, hermano!"
+    now: ROSE "Una hermosa victoria en KOF, hermano!"
+
+[END16#1]  (1 file)
+    was: ROSE "Pero era un hecho consumado,
+    was:  dada tu impresionante fuerza, no?"
+    now: ROSE "Pero considerando tu fuerza, era
+    now:  básicamente un pan comido, no?"
+
+[END16#3]  (1 file)
+    was: ROSE "Pero peleaste con plebeyos muy sucios!
+    was:       Me da asco cuando lo pienso!"
+    now: ROSE "Aunque peleaste con plebe muy sucia!
+    now:       Debo quitarme la mugre de esa chusma!"
+
+[END16#4]  (1 file)
+    was: ROSE "Qué puñado de bajos plebeyos!
+    was:       No eran dignos de tu paliza."
+    now: ROSE "Gente de esa clase no es digna
+    now:       de pelear contigo, hermano."
+
+[END16#6]  (1 file)
+    was: ROSE "!?... A-Adelheid?"
+    now: ROSE "!?... H-hermano?"
+
+[END16#7]  (1 file)
+    was: ADELHEID "Tanto ellos como yo hicimos lo posible.
+    was:           También ellos merecen nuestro respeto."
+    now: ADELHEID "Tanto ellos como yo dimos lo máximo.
+    now:           También ellos merecen nuestro respeto."
+
+[END16#11]  (1 file)
+    was: ROSE "No puede ser que tú...
+    was:       Por qué? Adelheid..."
+    now: ROSE "No puede ser que tú...
+    now:       Por qué? hermano..."
+
+[END16#12]  (1 file)
+    was: ROSE "Qué hice yo...? Me las pagará...
+    was:       Aunque él sea mi hermano..."
+    now: ROSE "No hice nada malo...? Me las pagará...
+    now:       Aunque él sea mi hermano..."
+
+[END16#17]  (1 file)
+    was: BOTAN "Ella me servirá extremadamente bien.
+    was:        Mi preciosa... muñequita!"
+    now: BOTAN "Ella me servirá extremadamente bien.
+    now:        Mi preciosa... marioneta!"
+
+[MIDDLE#0]  (1 file)
+    was: SHION "El KOF está en marcha sin problema
+    was:        ...según me dijeron, Magaki."
+    now: SHION "El KOF avanza sin problemas...
+    now:        o eso dicen, señor Magaki."
+
+[MIDDLE#1]  (1 file)
+    was: MAGAKI "Bueno, eso es fantástico, Shion.
+    was:         Pero, no tendrá sentido sin el Orochi."
+    now: MAGAKI "Qué despreocupado, Shion. Si Orochi no
+    now:         responde, todo será una simple farsa."
+
+[MIDDLE#4]  (1 file)
+    was: MAGAKI "Pero recuerda esto, Shion."
+    now: MAGAKI "Espera, Shion."
+
+[MIDDLE#5]  (1 file)
+    was: SHION "... Que recuerde qué?"
+    now: SHION "... Qué pasa?"
+
+[MIDDLE#6]  (1 file)
+    was: MAGAKI "... Que no seré traicionado."
+    now: MAGAKI "... No me traiciones."
+
+[MBOSS00#0]  (1 file)
+    was: OSWALD "Ajá... Conque aquí se realiza el torneo?
+    was:     Parece como que algo malo ha ocurrido aquí."
+    now: OSWALD "Vaya... Así que la sede de la final
+    now:     quedó en este estado. Algo ha ocurrido aquí."
+
+[MBOSS00#1]  (15 files)
+    was: SHION "Oye, llegas tarde.
+    was:        ...Yo me cansé de esperarte!"
+    now: SHION "Tsk. Han llegado muy tarde.
+    now:        ...Ya me cansé de esperar."
+
+[MBOSS00#2]  (1 file)
+    was: SHEN "Eres tú quien hizo todo esto?
+    was:       Esto es realmente una fechoría."
+    now: SHEN "Así que fuiste tú?
+    now:       Vaya brutalidad la tuya."
+
+[MBOSS00#3]  (15 files)
+    was: SHION "Ah, lo que sea... Y qué te parece...
+    was:        ...si ponemos el show en marcha!?"
+    now: SHION "Y eso qué importa?
+    now:        ...Mejor empecemos de una vez, no?"
+
+[MBOSS02#2]  (1 file)
+    was: KIM "Tú eres quien causó todo esto?
+    was:      Si fuiste tú... mereces una paliza!"
+    now: KIM "Fue usted quien hizo esto?
+    now:      Si es así... no se lo perdonaré!"
+
+[MBOSS03#0]  (1 file)
+    was: KING "... Esto sí que es un revoltijo.
+    was:       Ese que está escondido, venga aquí!"
+    now: KING "... Vaya desastre hay aquí.
+    now:       Quién está ahí?! Sal ahora!"
+
+[MBOSS03#2]  (1 file)
+    was: YURI "Tú eres el responsable de esto?
+    was:       Qué desastre... Mejor reza por tu perdón!"
+    now: YURI "Tú hiciste esto?
+    now:       Qué horrible... es imperdonable!"
+
+[MBOSS04#0]  (1 file)
+    was: JENET "Qué barbaridad... El lugar de nuestro
+    was:        encuentro final es un desastre total!"
+    now: JENET "Vaya, vaya...
+    now:        El lugar quedó hecho trizas, eh."
+
+[MBOSS04#2]  (1 file)
+    was: TIZOC "Tú hiciste esto, gran idiota!?
+    was:        Tizoc vengará esta villanía!"
+    now: TIZOC "Villano, tú hiciste esto!
+    now:        Tizoc no te lo perdonará!"
+
+[MBOSS05#0]  (1 file)
+    was: WHIP "Qué es esto? Qué ha sucedido 
+    was:       en este lugar de la contienda...?"
+    now: WHIP "Qué significa esto?
+    now:       La sede de la final quedó así..."
+
+[MBOSS06#0]  (1 file)
+    was: MOMOKO "Yo no sé, pero esto me da escalofríos.
+    was:         Y siento muy malas ondas en este lugar."
+    now: MOMOKO "A Momoko le da miedo...
+    now:         Este lugar es raro. Me da mala espina..."
+
+[MBOSS07#0]  (1 file)
+    was: RAMON "Uaaa. Soberano lío armaron en este lugar.
+    was:      ...Estás aún aquí...? Muestra tu fea cara!"
+    now: RAMON "Ay, ay. Sí que destrozaron este lugar.
+    now:      ...Sé que estás ahí. Da la cara!"
+
+[MBOSS08#0]  (1 file)
+    was: EIJI "Esta presencia que siento...
+    was:       Algo se trae. Da la cara, tú!"
+    now: EIJI "Esta presencia...
+    now:       No eres alguien común. Muéstrate!"
+
+[MBOSS09#0]  (1 file)
+    was: MAXIMA "Esta es nuestra batalla final, verdad!?
+    was:         ...No es lo que yo tenía en mente."
+    now: MAXIMA "Muy bien, es hora de la final!
+    now:         ...O eso parecía."
+
+[MBOSS09#2]  (1 file)
+    was: KULA "Tanta destrucción, tantos lesionados...
+    was:       ...Cómo puedes ser tan inhumano!?"
+    now: KULA "Romper todo y lastimar a todos...
+    now:       ...Eso es muy cruel!"
+
+[MBOSS10#2]  (1 file)
+    was: KYO "Yo no te pedí que me esperaras. A propósito,
+    was:      no eres tú un compinche de Mukai?"
+    now: KYO "Nadie te pidió que esperaras.
+    now:      Y tú... eres compañero de Mukai, no?"
+
+[MBOSS11#0]  (1 file)
+    was:  "Qué ha sucedido aquí?
+    was:   Quién pudo hacerle esto al anfiteatro...?"
+    now:  "Qué pasó aquí?
+    now:   La sede de la final quedó así..."
+
+[MBOSS11#2]  (1 file)
+    was:  "Qué masacre...
+    was:   Con qué motivo hacer semejante cosa!"
+    now:  "Qué crueldad...
+    now:   Para qué hacer algo así!"
+
+[MBOSS12#0]  (1 file)
+    was:  "Caramba! Qué escena infernal es esta?
+    was:   Destruir totalmente el anfiteatro..."
+    now:  "Qué pasó aquí?
+    now:   La sede de la final está destrozada..."
+
+[MBOSS13#0]  (1 file)
+    was:  "Zambomba! Qué ha pasado aquí?
+    was:   El anfiteatro ha sido totalmente demolido..."
+    now:  "Qué ocurrió aquí?
+    now:   La sede de la final quedó en ruinas..."
+
+[MBOSS13#2]  (1 file)
+    was:  "Qué desastre...
+    was:   Quién pudo hacer esto? Y por qué?"
+    now:  "Qué horror...
+    now:   Para qué hacer algo así!"
+
+[MBOSS16#2]  (1 file)
+    was: ADELHEID "Explícanos lo que queremos saber:
+    was:       quién eres tú y qué te traes entre manos."
+    now: ADELHEID "Tendrás que hablar.
+    now:       Quién eres y qué pretendes?"
+
+[BBOSS00#0]  (15 files)
+    was: SHION "Agh... cof, cof... diablos!
+    was:        Escoria de Orochi, aún no despiertas?"
+    now: SHION "Agh... cof, cof! Maldita sea...
+    now:        Ese Orochi aún no despierta."
+
+[BBOSS00#1]  (1 file)
+    was: ASH "Hum. Como me lo imaginé: Usas a KOF
+    was:      para lograr tus designios diabólicos, eh?"
+    now: ASH "Mmm, así que usaban el KOF
+    now:      para tramar algo, eh?"
+
+[BBOSS00#2]  (15 files)
+    was: SHION "Zopencos! Mukai ya está libre."
+    now: SHION "Qué lentos son...
+    now:         Ahora que Mukai rompió el sello..."
+
+[BBOSS00#3]  (15 files)
+    was: SHION "El Orochi destruyendo otra vez..."
+    now: SHION "Orochi volverá a este mundo..."
+
+[BBOSS00#5]  (15 files)
+    was: SHION "Magaki, tú... Agh, uuh..."
+    now: SHION "Magaki, maldito... Agh, ugh..."
+
+[BBOSS00#8]  (15 files)
+    was: MAGAKI "'Tu poder hará que la transmigración
+    was:         de Orochi sea completa.'"
+    now: MAGAKI "'El poder de Orochi renacido
+    now:         llenará a nuestro amo.'"
+
+[BBOSS00#9]  (15 files)
+    was: MAGAKI "Y ahora, mis corderitos... Ofrecerán
+    was:    todo lo que poseen al 'Todopoderoso Orochi.'"
+    now: MAGAKI "Ahora, corderos del sacrificio...
+    now:    ofrecerán todo al 'gran Orochi'."
+
+[BBOSS00#10]  (15 files)
+    was: MAGAKI "Mueran en deliciosa agonía, peones!!!"
+    now: MAGAKI "Es hora del fin!!!"
+
+[BBOSS03#1]  (1 file)
+    was: RYO  "Y qué pensaban lograr? 
+    was:       Con una jugada así? Respóndanme!"
+    now: RYO  "Qué pretendían con todo esto?
+    now:       Respondan!"
+
+[BBOSS04#1]  (1 file)
+    was: JENET "Bueno, es hora de que empiecen a hablar♪
+    was:        Qué es ese Orochi? Una clase de tesoro?"
+    now: JENET "Bueno, ahora van a hablar♪
+    now:        Qué es ese Orochi? Algún tesoro, no?"
+
+[BBOSS05#1]  (1 file)
+    was: RALF "OK, aquí comienza mi verdadero trabajo.
+    was:       Por qué están usando a KOF así?"
+    now: RALF "Bien, ahora empieza el verdadero trabajo.
+    now:       Qué tramaban usando el KOF!?"
+
+[BBOSS06#1]  (1 file)
+    was: ATHENA "Dijiste Orochi?
+    was:         Y tú, quién eres...?"
+    now: ATHENA "Orochi, dijiste?
+    now:         Qué es lo que pretendes...?"
+
+[BBOSS07#1]  (1 file)
+    was: VANESSA "Es hora de que respondan a mi pregunta.
+    was:          Ustedes, qué están tramando hacer?"
+    now: VANESSA "Van a responderme.
+    now:          Qué es lo que pretenden hacer?"
+
+[BBOSS08#1]  (1 file)
+    was: MALIN "Je je. Justo como me lo imaginaba...
+    was:        Ustedes no andan en nada bueno, eh?"
+    now: MALIN "Ajá. Como pensaba, ustedes
+    now:        traen algún plan, verdad?"
+
+[BBOSS09#1]  (1 file)
+    was: K' "Ey, ustedes...
+    was:     Qué están fraguando aquí?"
+    now: K' "Ustedes...
+    now:     Qué pretenden con esto?"
+
+[BBOSS10#1]  (1 file)
+    was: KYO  "Liberando al Orochi, y después qué...
+    was:       Qué otros objetivos se traen!?"
+    now: KYO  "Liberaron el sello de Orochi y ahora...
+    now:       Qué es lo que buscan!?"
+
+[BBOSS11#1]  (1 file)
+    was:  "Qué diablos está pasando aquí?
+    was:   Es mejor que empieces a hablar ya!"
+    now:  "Qué significa esto?
+    now:   Tendrás que explicarlo."
+
+[BBOSS16#1]  (1 file)
+    was: ADELHEID "Seguro que dijiste Orochi, verdad?
+    was:           Yo no puedo permitir eso, no?"
+    now: ADELHEID "Dijiste Orochi.
+    now:           Ese nombre no lo puedo pasar por alto."
+
+[ABOSS00#1]  (2 files)
+    was: MAGAKI "Dar rienda suelta a todo mi poder
+    was:     y no ver resultados... quiere decir que..."
+    now: MAGAKI "Liberé todo este poder
+    now:     y no ocurre nada... Eso significa..."
+
+[ABOSS00#2]  (2 files)
+    was: MAGAKI "Yo supongo que... no se trata sólo del
+    was:       'espíritu,' sino que algo más hace falta."
+    now: MAGAKI "Que no basta con la mera energía...
+    now:       que aún falta algo más."
+
+[ABOSS00#3]  (1 file)
+    was: SHEN "Entonces qué!? Si tienes quejas, por qué
+    was:       no lloras tus fracasos en tu casa!?"
+    now: SHEN "Y qué con eso!? Si vas a llorar
+    now:       por perder, hazlo en tu casa!"
+
+[ABOSS00#5]  (1 file)
+    was: ASH  "Pensando poner pies en polvorosa, eh!?"
+    now: ASH  "En pocas palabras, vas a huir, no?"
+
+[ABOSS00#9]  (15 files)
+    was: MAGAKI "Yo me ensucié las manos hasta aquí.
+    was:         El Orochi debe responder a mi esfuerzo."
+    now: MAGAKI "Me he manchado las manos hasta aquí.
+    now:         Es imposible que Orochi no responda..."
+
+[ABOSS00#11]  (15 files)
+    was: MAGAKI "Oh, no... no puede ser...
+    was:         Qué está pasando...?"
+    now: MAGAKI "Imposible...
+    now:         Q-qué es esto...?"
+
+[ABOSS00#12]  (15 files)
+    was: MAGAKI "Sh...
+    was:         Shion... Tú, ba..."
+    now: MAGAKI "Shi...
+    now:         Shion... maldito..."
+
+[ABOSS00#14]  (15 files)
+    was: Nuevamente el KING OF FIGHTERS
+    was: acaba este año con una explosión.
+    now: El KING OF FIGHTERS de este año
+    now: también tuvo un final turbulento.
+
+[ABOSS00#15]  (15 files)
+    was: En el último KOF el sello de Orochi fue liberado
+    was: y hoy el sindicato Magaki ambiciona ese poder.
+    now: Orochi, voluntad de la Tierra, liberada en el
+    now: último KOF. Magaki y los suyos tras su poder.
+
+[ABOSS00#16]  (15 files)
+    was: El creciente caos continúa...
+    now: Y el caos no hace más que crecer...
+
+[ABOSS00#18]  (14 files)
+    was: Durante la autopsia desaparece el cadáver de
+    was: Magaki. Alguien se lo llevó. Pero quién...?
+    now: Alguien se llevó el cadáver de Magaki
+    now: mientras la policía local lo examinaba.
+
+[ABOSS01#3]  (1 file)
+    was: ELISABETH "Acepta la derrota como un hombre.
+    was:      Y cuéntanos todo con detalle, ahora mismo."
+    now: ELISABETH "Vamos, acepta tu derrota con dignidad
+    now:      y cuéntanoslo todo."
+
+[ABOSS01#5]  (1 file)
+    was: DUO LON "Pensando en huir, eh...?"
+    now: DUO LON "Así que huyes..."
+
+[ABOSS02#1]  (13 files)
+    was: MAGAKI "Dar rienda suelta a todo mi poder
+    was:    y no ver resultados... quiere decir que..."
+    now: MAGAKI "Liberé todo este poder
+    now:    y no ocurre nada... Eso significa..."
+
+[ABOSS02#2]  (13 files)
+    was: MAGAKI "Yo supongo que... no se trata sólo del
+    was:     'espíritu,' sino que algo más hace falta."
+    now: MAGAKI "Que no basta con la mera energía...
+    now:     que aún falta algo más."
+
+[ABOSS02#5]  (1 file)
+    was: TERRY "Si tanto interés tienes en escaparte,
+    was:        al menos huye en silencio, ah?"
+    now: TERRY "Si vas a huir, por qué no lo haces
+    now:        callado?"
+
+[ABOSS02#13]  (1 file)
+    was: KIM  "Al fin de cuentas esto está claro:
+    was:      'El mal perdió ante la justicia,' no?"
+    now: KIM  "Esto quiere decir que 'el mal
+    now:      sucumbe ante la justicia', verdad?"
+
+[ABOSS04#3]  (1 file)
+    was: JENET "Oh, qué tanto murmurar!
+    was:        No te cuadra esa actitud!"
+    now: JENET "Qué tanto murmuras?
+    now:        Qué patético!"
+
+[ABOSS04#5]  (1 file)
+    was: GATO "Ni ganas me dan de eliminar a este payaso.
+    was:       Mejor bórrate, zopenco!"
+    now: GATO "Ni siquiera vale la pena rematarte.
+    now:       Lárgate!"
+
+[ABOSS05#5]  (1 file)
+    was: WHIP "Crees siquiera que puedes huir?"
+    now: WHIP "Crees que podrás escapar?"
+
+[ABOSS06#3]  (1 file)
+    was: ATHENA "Esta es tu derrota. Ahora, tranquilito
+    was:         y como buen niño, te rindes."
+    now: ATHENA "Perdiste.
+    now:         Ríndete sin oponer resistencia!"
+
+[ABOSS06#5]  (1 file)
+    was: MOMOKO "Huyendo? Ah, no, eso no está permitido!"
+    now: MOMOKO "Huir es hacer trampa!"
+
+[ABOSS07#3]  (1 file)
+    was: RAMON "Tú no eres buen perdedor, mister.
+    was:        Pórtate como hombre y acepta tu derrota!"
+    now: RAMON "No sabes perder, señor.
+    now:        Si eres hombre, acepta tu derrota!"
+
+[ABOSS08#5]  (1 file)
+    was: KASUMI "Dilo claramente! Dónde está mi padre?"
+    now: KASUMI "Habla ya! Dónde está mi padre?"
+
+[ABOSS08#13]  (1 file)
+    was: EIJI "Esto cada vez está más misterioso, no...?"
+    now: EIJI "Qué cosa tan extraña..."
+
+[ABOSS09#3]  (1 file)
+    was: K' "Es muy denigrante.
+    was:     Ya que perdiste, esfúmate!"
+    now: K' "Qué patético.
+    now:     Lárgate, perdedor."
+
+[ABOSS09#13]  (1 file)
+    was: KULA "Qué es... esto...?
+    was:       Alguien quiere explicarme...?"
+    now: KULA "Qué es... esto...?
+    now:       Qué está pasando...?"
+
+[ABOSS11#3]  (2 files)
+    was:  "Te amargas por haber perdido?"
+    now:  "Excusas de perdedor?"
+
+[ABOSS11#5]  (1 file)
+    was:  "Estás pensando en escaparte, no...?"
+    now:  "Piensas huir...?"
+
+[ABOSS11#13]  (1 file)
+    was:  "Qué es esto...?
+    was:   Quieren explicarme qué está pasando...?"
+    now:  "Qué es esto...?
+    now:   Qué está pasando aquí...?"
+
+[ABOSS12#3]  (1 file)
+    was:  "Te acongojas porque te derrotaron!"
+    now:  "Excusas de perdedor?"
+
+[ABOSS12#5]  (2 files)
+    was:  "Tienes la intención de huir, eh...?"
+    now:  "Piensas huir, eh...?"
+
+[ABOSS12#13]  (2 files)
+    was:  "Qué está ocurriendo aquí...?
+    was:   Yo no entiendo ni jota de todo esto!"
+    now:  "Qué es esto...?
+    now:   Qué está pasando...?"

@@ -1,0 +1,19 @@
+THE KING OF FIGHTERS XI INTERNATIONAL -- CUTSCENE SUBTITLES, ENGLISH: how the script was brought over
+
+The English subtitles are the script of the North American release, which is SNK's and is not copied here.
+It was matched to the Japanese disc's 842 subtitle records, 841 of which take a line of it.
+Nothing was reworded. What was done to fit the Japanese disc's subtitle records:
+
+  - 65 lines of three rows are broken into two rows (the disc never shows three);
+  - 1 line that covers two records on the disc is split at its own break;
+  - 3 records hold two speakers, one a row: each takes two lines of the script;
+  - 5 thoughts keep the disc's ( ) around the script's words, where the script uses quotes;
+  - one misplaced space in the script is set right;
+  - 1 record has no line in the script and keeps the disc's.
+
+The records this touched, by file and record number:
+
+  one US line over two records: MIDDLE#3, MIDDLE#4
+  two speakers in one record: two US lines: END03#4, END05#9, END06#27
+  a thought: the US words in the disc's ( ): END01#28, END02#5, END09#16, END10#9, END10#10
+  no US line: SNK's stays: END03#36
